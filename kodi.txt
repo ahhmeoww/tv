@@ -23,12 +23,12 @@ https://vtsstr7.tv24.vn/live/smil:Hollywood.smil/chunklist.m3u8
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http://sctvonline.vn
 
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HBO.png",HBO HD
-http://uslive.vthanhtivi.pw/hbo
-#udp://@225.1.4.90:30120
+#http://uslive.vthanhtivi.pw/hbo
+udp://@225.1.4.90:30120
 
 #EXTINF:-1 tvg-id="cinemaxhd" tvg-name="CINEMAX" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/CINEMAX.png",CINEMAX HD
-http://uslive.vthanhtivi.pw/cinemax
-#udp://@225.1.2.86:30120
+#http://uslive.vthanhtivi.pw/cinemax
+udp://@225.1.2.86:30120
 
 #EXTINF:-1 tvg-id="cinemaworld" tvg-name="CINEMA-WORLD" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/CINEMA-WORLD.png",CINEMA WORLD HD
 https://ancom.ga/fpt/cinemaworld/bitrate_5000.m3u8
@@ -55,8 +55,8 @@ https://vtsstr4.tv24.vn/live/SCTV_HD_phimnuocngoaidacsac_new.smil/playlist.m3u8
 #-*--ENTERTAINMENT--*-#
 
 #EXTINF:-1 tvg-id="axnhd" tvg-name="AXN" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/AXN.png",AXN HD
-https://ancom.ga/fpt/axn/bitrate_5000.m3u8
-#udp://@225.1.4.9:30120
+#https://ancom.ga/fpt/axn/bitrate_5000.m3u8
+udp://@225.1.4.9:30120
 
 #EXTINF:-1 tvg-id="blueantent" tvg-name="BLUE-ANT-ENTERTAINMENT" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BLUE-ANT-ENTERTAINMENT.png",BLUE ANT ENTERTAINMENT HD
 
