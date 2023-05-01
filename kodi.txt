@@ -39,15 +39,11 @@ https://ancom.ga/fpt/warner-tv/bitrate_5000.m3u8
 #udp://@225.1.4.14:30120
 
 
-
 #EXTINF:-1 tvg-id="sctv16hd" tvg-name="SCTV16" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/SCTV16.png",SCTV16 HD
 https://vtsstr4.tv24.vn/live/SCTV_HD_phimnuocngoaidacsac_new.smil/playlist.m3u8
 
 
-
-
 #EXTINF:-1 tvg-id="paramouthd" tvg-name="PARAMOUNT-CHANNEL" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/PARAMOUNT-2.png",PARAMOUNT CHANNEL
-
 
 
 
@@ -62,10 +58,6 @@ udp://@225.1.4.9:30120
 
 
 #EXTINF:-1 tvg-id="rockextreme" tvg-name="BLUE-ANT-EXTREME" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BLUE-ANT-EXTREME.png",BLUE ANT EXTREME HD
-
-
-
-
 
 
 
@@ -105,73 +97,6 @@ https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 
 
 
-
-#-*--VTV--*-#
-
-#EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV1.png",VTV1 HD
-https://vips-livecdn.fptplay.net/hda1/vtv1hd_4000.stream/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
-
-#EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV2.png",VTV2 HD
-https://livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
-
-#EXTINF:-1 tvg-id="vtv3hd" tvg-name="VTV3" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV3.png",VTV3 HD
-https://livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
-
-#EXTINF:-1 tvg-id="vtv4hd" tvg-name="VTV4" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV4.png",VTV4 HD
-https://livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
-
-#EXTINF:-1 tvg-id="vtv5hd" tvg-name="VTV5" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV5.png",VTV5 HD
-https://livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
-
-#EXTINF:-1 tvg-id="vtv5hdtnb" tvg-name="VTV5-TNB" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV5-TNB.png",VTV5 HD - Tây Nam Bộ
-https://vips-livecdn.fptplay.net/hda3/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
-
-#EXTINF:-1 tvg-id="vtv5hdtn" tvg-name="VTV5-TN" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV5-TN.png",VTV5 HD - Tây Nguyên
-https://code.vthanhtivi.pw/getlink/vieon2/4e315b06-4e75-44c3-aa02-ede3653b52cc/playlist.m3u8
-
-#EXTINF:-1 tvg-id="vtv6hd" tvg-name="VTV6" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV6.png",VTV Can Tho
-https://livecdn.fptplay.net/hda1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
-
-#EXTINF:-1 tvg-id="vtv7hd" tvg-name="VTV7" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV7.png",VTV7 HD
-https://livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
-
-#EXTINF:-1 tvg-id="vtv8hd" tvg-name="VTV8" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV8.png",VTV8 HD
-https://livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
-
-#EXTINF:-1 tvg-id="vtv9hd" tvg-name="VTV9" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV9.png",VTV9 HD
-https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
-
-
-
-#-*--HTV&HTVC--*-#
-
-#EXTINF:-1 tvg-id="htv1" tvg-name="HTV1" group-title="HTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HTV1.png",HTV1
-https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
-
-
-#EXTINF:-1 tvg-id="htv2hd" tvg-name="HTV2" group-title="HTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HTV2.png",HTV2 HD
-https://vips-livecdn.fptplay.net/hda1/htv2hd_vhls.smil/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
-
-
-#EXTINF:-1 tvg-id="htv3" tvg-name="HTV3" group-title="HTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HTV3.png",HTV3
-https://livecdn.fptplay.net/sdb/htv3_hls.smil/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
-
-
-#EXTINF:-1 tvg-id="htv4" tvg-name="HTV-KEY" group-title="HTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HTV-KEY.png",HTV KEY
-https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
-
-
-#EXTINF:-1 tvg-id="htv7hd" tvg-name="HTV7" group-title="HTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HTV7.png",HTV7 HD
-https://livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
-
-
-#EXTINF:-1 tvg-id="htv9hd" tvg-name="HTV9" group-title="HTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HTV9.png",HTV9 HD
-https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
-
-
-
-
-
 #-*--SPORT--*-#
 
 #EXTINF:-1 tvg-id="mutv" tvg-name="MUTV" group-title="SPORT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/MUTV.png",MUTV
@@ -196,22 +121,34 @@ https://vtsstr4.tv24.vn/live/SCTV17_HD_new.smil/playlist.m3u8
 https://vtsstr4.tv24.vn/live/SCTV22_HD_new.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BTV5" tvg-name="BTV5" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BTV5.png",BTV5 HD
-https://vtsstr4.tv24.vn/live/btv5_HD_new.smil/playlist.m3u8
+#https://vtsstr4.tv24.vn/live/btv5_HD_new.smil/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/onplus/BTV5/m30_index.m3u8
 
 #EXTINF:-1 tvg-id="htvthethaohd" tvg-name="HTV-THE-THAO" group-title="HTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HTV-THE-THAO.png",HTV Thể Thao HD
 https://vips-livecdn.fptplay.net/hda3/htvcthethao_vhls.smil/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
 
 
 
+#EXTINF:-1 tvg-id="vtvcab6hd" tvg-name="VTVCab6-ON-Sports+" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTVCab6-ON-Sports+.png",ON Sports+
+http://livevlive.vtvcab.vn/HAY_TV/m401_index.m3u8
 
+#EXTINF:-1 tvg-id="vtvcab3hd" tvg-name="VTVCab3-ON-Sports-HD" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTVCab3-ON-Sports-HD.png",ON Sports HD
+https://livevlive.vtvcab.vn/THETHAO_HD/m401_index.m3u8
 
+#EXTINF:-1 tvg-id="vtvcab16hd" tvg-name="VTVCab16-ON-Football-HD" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTVCab16-ON-Football-HD.png",ON Football HD
+http://livevlive.vtvcab.vn/BONGDA_HD/m401_index.m3u8
+
+#EXTINF:-1 tvg-id="vtvcab18hd" tvg-name="VTVCab18-ON-Sports-News" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTVCab18-ON-Sports-News.png",ON Sports News
+http://livevlive.vtvcab.vn/THETHAO_TINTUC_HD/m401_index.m3u8
+
+#EXTINF:-1 tvg-id="ON-Volleyball" tvg-name="ON-Volleyball" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTVCab18-ON-Sports-News.png",ON Volleyball
+http://livevlive.vtvcab.vn/ONVOLLEYBALL/m30_index.m3u8
 
 
 #EXTINF:-1 group-title="BEIN SPORTS - PHÁP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",BEIN SPORTS 1
 
 
 #EXTINF:-1 group-title="BEIN SPORTS - PHÁP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png",BEIN SPORTS 2
-
 
 
 #EXTINF:-1 group-title="THỂ THAO MỸ" tvg-id="ESPN.us" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png",ESPN US
@@ -225,24 +162,6 @@ https://vips-livecdn.fptplay.net/hda3/htvcthethao_vhls.smil/chunklist.m3u8|user-
 
 #EXTINF:-1 group-title="THỂ THAO MỸ" tvg-id="FoxSports2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png",FS2
 
-
-
-
-
-
-#EXTINF:-1 tvg-id="vtvcab6hd" tvg-name="VTVCab6-ON-Sports+" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTVCab6-ON-Sports+.png",ON Sports+
-
-
-#EXTINF:-1 tvg-id="vtvcab3hd" tvg-name="VTVCab3-ON-Sports-HD" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTVCab3-ON-Sports-HD.png",ON Sports HD
-
-
-#EXTINF:-1 tvg-id="vtvcab16hd" tvg-name="VTVCab16-ON-Football-HD" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTVCab16-ON-Football-HD.png",ON Football HD
-
-
-#EXTINF:-1 tvg-id="vtvcab18hd" tvg-name="VTVCab18-ON-Sports-News" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTVCab18-ON-Sports-News.png",ON Sports News
-
-
-#EXTINF:-1 tvg-id="ON-Volleyball" tvg-name="ON-Volleyball" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTVCab18-ON-Sports-News.png",ON Volleyballhttps://s6.hopslan.com/dmaxb/mono.m3u8
 
 
 
@@ -296,13 +215,84 @@ https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8|use
 https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 
 
-
 #EXTINF:-1 tvg-id="NASA" tvg-name="NASA" group-title="SCIENCE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/NASA.png",NASA
 http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
 
 
-
 #EXTINF:-1 tvg-id="historyhd" tvg-name="HISTORY" group-title="SCIENCE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HISTORY.png",HISTORY HD
+
+
+
+
+
+
+#-*--VTV--*-#
+
+#EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV1.png",VTV1 HD
+https://vips-livecdn.fptplay.net/hda1/vtv1hd_4000.stream/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+
+#EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV2.png",VTV2 HD
+https://livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+
+#EXTINF:-1 tvg-id="vtv3hd" tvg-name="VTV3" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV3.png",VTV3 HD
+https://livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+
+#EXTINF:-1 tvg-id="vtv4hd" tvg-name="VTV4" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV4.png",VTV4 HD
+https://livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+
+#EXTINF:-1 tvg-id="vtv5hd" tvg-name="VTV5" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV5.png",VTV5 HD
+https://livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+
+#EXTINF:-1 tvg-id="vtv5hdtnb" tvg-name="VTV5-TNB" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV5-TNB.png",VTV5 HD - Tây Nam Bộ
+https://vips-livecdn.fptplay.net/hda3/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+
+#EXTINF:-1 tvg-id="vtv5hdtn" tvg-name="VTV5-TN" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV5-TN.png",VTV5 HD - Tây Nguyên
+https://code.vthanhtivi.pw/getlink/tv360/207/2.m3u8
+
+#EXTINF:-1 tvg-id="vtv6hd" tvg-name="VTV6" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV6.png",VTV Can Tho
+https://livecdn.fptplay.net/hda1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+
+#EXTINF:-1 tvg-id="vtv7hd" tvg-name="VTV7" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV7.png",VTV7 HD
+https://livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+
+#EXTINF:-1 tvg-id="vtv8hd" tvg-name="VTV8" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV8.png",VTV8 HD
+https://livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+
+#EXTINF:-1 tvg-id="vtv9hd" tvg-name="VTV9" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV9.png",VTV9 HD
+https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+
+
+
+#-*--HTV&HTVC--*-#
+
+#EXTINF:-1 tvg-id="htv1" tvg-name="HTV1" group-title="HTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HTV1.png",HTV1
+https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+
+
+#EXTINF:-1 tvg-id="htv2hd" tvg-name="HTV2" group-title="HTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HTV2.png",HTV2 HD
+https://vips-livecdn.fptplay.net/hda1/htv2hd_vhls.smil/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+
+
+#EXTINF:-1 tvg-id="htv3" tvg-name="HTV3" group-title="HTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HTV3.png",HTV3
+https://livecdn.fptplay.net/sdb/htv3_hls.smil/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+
+
+#EXTINF:-1 tvg-id="htv4" tvg-name="HTV-KEY" group-title="HTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HTV-KEY.png",HTV KEY
+https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+
+
+#EXTINF:-1 tvg-id="htv7hd" tvg-name="HTV7" group-title="HTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HTV7.png",HTV7 HD
+https://livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+
+
+#EXTINF:-1 tvg-id="htv9hd" tvg-name="HTV9" group-title="HTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HTV9.png",HTV9 HD
+https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+
+
+
+
+
+
 
 
 
@@ -404,16 +394,6 @@ http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8|user-a
 
 #EXTINF:-1 tvg-id="vtc16hd" tvg-name="VTC16" group-title="VTC" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTC16.png",VTC16
 #https://api.vthanhtivi.pw/v1/getlink/vieon/vtc16-hd
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -607,6 +587,7 @@ http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8|user-a
 
 
 
+
 #-*--K+--*-#
 
 #EXTINF:-1 tvg-id="ksport1hd" tvg-name="KSPORT1HD" group-title="K+" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/KSPORT1.png",K+SPORT1
@@ -625,18 +606,7 @@ http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8|user-a
 
 
 
-
-
-
-
-
 #-*--DEACTIVE--*-#
-
-
-
-#EXTINF:-1 tvg-id="dmax" tvg-name="DMAX" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/DMAX.png",DMAX
-#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORT2-SD-720p/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
-
 
 
 #EXTINF:-1 tvg-id="BEIN-SPORTS-1" tvg-name="BEIN-SPORTS-1" group-title="SPORT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BEIN-SPORTS-1.png",Bein Sports 1 Premium
@@ -667,10 +637,10 @@ http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8|user-a
 
 
 #EXTINF:-1 tvg-id="SKY-SPORTS-1" tvg-name="SKY-SPORTS-1" group-title="SPORT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/SKY-SPORTS-1.png",SKY SPORTS 1
-#http://cvmedia.hqth.me:8000/live1
+
 
 #EXTINF:-1 tvg-id="SKY-SPORTS-2" tvg-name="SKY-SPORTS-2" group-title="SPORT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/SKY-SPORTS-2.png",SKY SPORTS 2
-#http://cvmedia.hqth.me:8000/live2
+
 
 
 
