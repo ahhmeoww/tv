@@ -261,8 +261,8 @@ https://ancom.ga/fpt/discovery/bitrate_5000.m3u8
 #udp://@225.1.4.24:30120
 
 #EXTINF:-1 tvg-id="discoveryasiahd" tvg-name="DISCOVERY-ASIA" group-title="SCIENCE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/DISCOVERY-ASIA.png",DISCOVERY ASIA HD
-https://ancom.ga/fpt/discovery-asia/bitrate_5000.m3u8
-#udp://@225.1.4.25:30120
+#https://ancom.ga/fpt/discovery-asia/bitrate_5000.m3u8
+udp://@225.1.4.25:30120
 
 #EXTINF:-1 tvg-id="outdoorhd" tvg-name="OUTDOOR-CHANNEL" group-title="SCIENCE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/OUTDOOR-CHANNEL.png",OUTDOOR CHANNEL HD
 https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
