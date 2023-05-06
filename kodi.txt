@@ -31,12 +31,12 @@ udp://@225.1.4.90:30120
 udp://@225.1.2.86:30120
 
 #EXTINF:-1 tvg-id="cinemaworld" tvg-name="CINEMA-WORLD" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/CINEMA-WORLD.png",CINEMA WORLD HD
-https://ancom.ga/fpt/cinemaworld/bitrate_5000.m3u8
-#udp://@225.1.4.15:30120
+#https://ancom.ga/fpt/cinemaworld/bitrate_5000.m3u8
+udp://@225.1.4.15:30120
 
 #EXTINF:-1 tvg-id="warnertvhd" tvg-name="WARNER-TV" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/WARNER-TV.png",WARNER TV HD
-https://ancom.ga/fpt/warner-tv/bitrate_5000.m3u8
-#udp://@225.1.4.14:30120
+#https://ancom.ga/fpt/warner-tv/bitrate_5000.m3u8
+udp://@225.1.4.14:30120
 
 
 #EXTINF:-1 tvg-id="sctv16hd" tvg-name="SCTV16" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/SCTV16.png",SCTV16 HD
