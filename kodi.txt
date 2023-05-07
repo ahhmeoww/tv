@@ -169,15 +169,15 @@ http://livevlive.vtvcab.vn/ONVOLLEYBALL/m30_index.m3u8
 #-*--SCIENCE--*-#
 
 #EXTINF:-1 tvg-id="ngchd" tvg-name="NAT-GEO" group-title="SCIENCE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/NAT-GEO.png",NATIONAL GEOGRAPHIC HD
-https://ancom.ga/fpt/national-geographic-hd/bitrate_5000.m3u8
-#udp://@225.1.4.215:30120
+#https://ancom.ga/fpt/national-geographic-hd/bitrate_5000.m3u8
+udp://@225.1.4.215:30120
 
 #EXTINF:-1 tvg-id="ngwhd" tvg-name="NAT-GEO-WILD" group-title="SCIENCE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/NAT-GEO-WILD.png",NAT GEO WILD HD
 udp://@225.1.4.83:30120
 
 #EXTINF:-1 tvg-id="discoveryhd" tvg-name="DISCOVERY" group-title="SCIENCE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/DISCOVERY.png",DISCOVERY CHANNEL HD
-https://ancom.ga/fpt/discovery/bitrate_5000.m3u8
-#udp://@225.1.4.24:30120
+#https://ancom.ga/fpt/discovery/bitrate_5000.m3u8
+udp://@225.1.4.24:30120
 
 #EXTINF:-1 tvg-id="discoveryasiahd" tvg-name="DISCOVERY-ASIA" group-title="SCIENCE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/DISCOVERY-ASIA.png",DISCOVERY ASIA HD
 #https://ancom.ga/fpt/discovery-asia/bitrate_5000.m3u8
@@ -188,8 +188,8 @@ https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist.m3u8|user-agent=
 #udp://@225.1.4.210:30120
 
 #EXTINF:-1 tvg-id="animalhd" tvg-name="ANIMAL-PLANET" group-title="SCIENCE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/ANIMAL-PLANET.png",ANIMAL PLANET HD
-https://ancom.ga/fpt/animal-planet/bitrate_5000.m3u8
-#udp://@225.1.4.209:30120
+#https://ancom.ga/fpt/animal-planet/bitrate_5000.m3u8
+udp://@225.1.4.209:30120
 
 #EXTINF:-1 tvg-id="planetearthhd" tvg-name="PLANET-EARTH" group-title="SCIENCE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/PLANET-EARTH.png",PLANET EARTH HD
 https://vtsstr7.tv24.vn/live/smil:Planet_Earth.smil/chunklist.m3u8
@@ -199,12 +199,12 @@ https://vtsstr7.tv24.vn/live/smil:Planet_Earth.smil/chunklist.m3u8
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 #EXTINF:-1 tvg-id="bbcearth" tvg-name="BBC-EARTH" group-title="SCIENCE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BBC-EARTH.png",BBC EARTH
-https://ancom.ga/fpt/bbc-earth/bitrate_5000.m3u8
-#udp://@225.1.4.21:30120
+#https://ancom.ga/fpt/bbc-earth/bitrate_5000.m3u8
+udp://@225.1.4.21:30120
 
 #EXTINF:-1 tvg-id="bbclifestyle" tvg-name="BBC-LIFE-STYLE" group-title="SCIENCE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BBC-LIFE-STYLE.png",BBC LIFE STYLE
-https://ancom.ga/fpt/bbc-lifestyle/bitrate_5000.m3u8
-#udp://@225.1.4.23:30120
+#https://ancom.ga/fpt/bbc-lifestyle/bitrate_5000.m3u8
+udp://@225.1.4.23:30120
 
 #EXTINF:-1 tvg-id="davinci" tvg-name="DAVINCI" group-title="SCIENCE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/DAVINCI.png",DAVINCI HD
 https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
