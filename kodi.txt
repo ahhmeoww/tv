@@ -67,8 +67,8 @@ https://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist.m3u8|user-agent=Mozil
 #udp://@225.1.4.36:30120
 
 #EXTINF:-1 tvg-id="tlchd" tvg-name="TLC" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/TLC.png",TRAVEL & LIVING HD
-https://ancom.ga/fpt/travel-living/bitrate_5000.m3u8
-#udp://@225.1.4.26:30120
+#https://ancom.ga/fpt/travel-living/bitrate_5000.m3u8
+udp://@225.1.4.26:30120
 
 #EXTINF:-1 tvg-id="kix" tvg-name="KIX" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/KIX.png",KIX HD
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
@@ -146,22 +146,6 @@ http://livevlive.vtvcab.vn/THETHAO_TINTUC_HD/m401_index.m3u8
 http://livevlive.vtvcab.vn/ONVOLLEYBALL/m30_index.m3u8
 
 
-#EXTINF:-1 group-title="BEIN SPORTS - PHÁP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",BEIN SPORTS 1
-
-
-#EXTINF:-1 group-title="BEIN SPORTS - PHÁP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png",BEIN SPORTS 2
-
-
-#EXTINF:-1 group-title="THỂ THAO MỸ" tvg-id="ESPN.us" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png",ESPN US
-
-
-#EXTINF:-1 group-title="THỂ THAO MỸ" tvg-id="ESPN2.us" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png",ESPN2 US
-
-
-#EXTINF:-1 group-title="THỂ THAO MỸ" tvg-id="FoxSports1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png",FS1
-
-
-#EXTINF:-1 group-title="THỂ THAO MỸ" tvg-id="FoxSports2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png",FS2
 
 
 
@@ -174,6 +158,7 @@ http://livevlive.vtvcab.vn/ONVOLLEYBALL/m30_index.m3u8
 udp://@225.1.4.215:30120
 
 #EXTINF:-1 tvg-id="ngwhd" tvg-name="NAT-GEO-WILD" group-title="SCIENCE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/NAT-GEO-WILD.png",NAT GEO WILD HD
+#http://live.vthanhtivi.pw/ngw
 udp://@225.1.4.83:30120
 
 #EXTINF:-1 tvg-id="discoveryhd" tvg-name="DISCOVERY" group-title="SCIENCE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/DISCOVERY.png",DISCOVERY CHANNEL HD
@@ -468,17 +453,6 @@ https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist.m3u8|user-agent
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 #-*--STYLE--*-#
 
 #EXTINF:-1 tvg-id="mtv" tvg-name="MTV" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/MTV.png",MTV HD
@@ -611,32 +585,46 @@ https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist.m3u8|user-agent
 
 #-*--DEACTIVE--*-#
 
+#EXTINF:-1 group-title="BEIN SPORTS - PHÁP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",BEIN SPORTS 1
+
+
+#EXTINF:-1 group-title="BEIN SPORTS - PHÁP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png",BEIN SPORTS 2
+
+
+#EXTINF:-1 group-title="THỂ THAO MỸ" tvg-id="ESPN.us" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png",ESPN US
+
+
+#EXTINF:-1 group-title="THỂ THAO MỸ" tvg-id="ESPN2.us" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png",ESPN2 US
+
+
+#EXTINF:-1 group-title="THỂ THAO MỸ" tvg-id="FoxSports1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png",FS1
+
+
+#EXTINF:-1 group-title="THỂ THAO MỸ" tvg-id="FoxSports2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png",FS2
+
 
 #EXTINF:-1 tvg-id="BEIN-SPORTS-1" tvg-name="BEIN-SPORTS-1" group-title="SPORT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BEIN-SPORTS-1.png",Bein Sports 1 Premium
-#http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
+
 
 #EXTINF:-1 tvg-id="BEIN-SPORTS-2" tvg-name="BEIN-SPORTS-2" group-title="SPORT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BEIN-SPORTS-2.png",Bein Sports 2 Premium
-#http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
+
 
 #EXTINF:-1 tvg-id="BEIN-SPORTS-3" tvg-name="BEIN-SPORTS-3" group-title="SPORT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BEIN-SPORTS-3.png",Bein Sports 3 Premium
-#http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
+
 
 #EXTINF:-1 tvg-id="BT-SPORTS-1" tvg-name="BT-SPORTS-1" group-title="SPORT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BT-SPORTS-1.png",BT Sports 1 HD
-#http://93.152.174.144:4000/play/btsport1/index.m3u8
+
 
 #EXTINF:-1 tvg-id="BT-SPORTS-2" tvg-name="BT-SPORTS-2" group-title="SPORT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BT-SPORTS-2.png",BT Sports 2 HD
-#http://93.152.174.144:4000/play/btsport2/index.m3u8
+
 
 #EXTINF:-1 tvg-id="ESPN-1" tvg-name="ESPN-1" group-title="SPORT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/ESPN-1.png",ESPN 1
-#http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2552/index.m3u8
+
 
 #EXTINF:-1 tvg-id="ESPN-2" tvg-name="ESPN-2" group-title="SPORT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/ESPN-2.png",ESPN 2
-#http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2553/index.m3u8
+
 
 #EXTINF:-1 tvg-id="ESPN-3" tvg-name="ESPN-3" group-title="SPORT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/ESPN-3.png",ESPN 3
-#http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2554/index.m3u8
-
-
 
 
 #EXTINF:-1 tvg-id="SKY-SPORTS-1" tvg-name="SKY-SPORTS-1" group-title="SPORT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/SKY-SPORTS-1.png",SKY SPORTS 1
