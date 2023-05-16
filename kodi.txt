@@ -24,11 +24,11 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http:
 
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HBO.png",HBO HD
 #http://live.vthanhtivi.pw/hbo
-udp://@225.1.4.90:30120
+udp://@225.1.2.54:30120
 
 #EXTINF:-1 tvg-id="cinemaxhd" tvg-name="CINEMAX" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/CINEMAX.png",CINEMAX HD
 #http://live.vthanhtivi.pw/cinemax
-udp://@225.1.2.86:30120
+udp://@225.1.2.143:30120
 
 #EXTINF:-1 tvg-id="cinemaworld" tvg-name="CINEMA-WORLD" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/CINEMA-WORLD.png",CINEMA WORLD HD
 #https://ancom.ga/fpt/cinemaworld/bitrate_5000.m3u8
