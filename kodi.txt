@@ -40,7 +40,10 @@ udp://@225.1.4.14:30120
 
 
 #EXTINF:-1 tvg-id="sctv16hd" tvg-name="SCTV16" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/SCTV16.png",SCTV16 HD
-https://vtsstr4.tv24.vn/live/SCTV_HD_phimnuocngoaidacsac_new.smil/playlist.m3u8
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/s1/index.m3u8
+
+#EXTINF:-1 tvg-id="sctv16hd" tvg-name="SCTV16" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/SCTV16.png",SCTV16 HD 2
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/s1/index.m3u8|Referer=http://sctvonline.vn/
 
 
 #EXTINF:-1 tvg-id="paramouthd" tvg-name="PARAMOUNT-CHANNEL" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/PARAMOUNT-2.png",PARAMOUNT CHANNEL
@@ -113,10 +116,10 @@ https://rbmn-live.akamaized.net/hls/live/2004294/BoRB-USPri/master_1660.m3u8
 
 
 #EXTINF:-1 tvg-id="sctv15hd" tvg-name="SCTV15" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/SCTV15.png",SCTV15 HD
-https://vtsstr4.tv24.vn/live/SCTV_HD_TheThao_new.smil/playlist.m3u8
+https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV15.smil/chunklist_b1692000.m3u8
 
 #EXTINF:-1 tvg-id="sctv17hd" tvg-name="SCTV17" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/SCTV17.png",SCTV17 HD
-https://vtsstr4.tv24.vn/live/SCTV17_HD_new.smil/playlist.m3u8
+https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist_b1692000.m3u8
 
 #EXTINF:-1 tvg-id="sctv22hd" tvg-name="SCTV22" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/SCTV22.png",SCTV22 HD
 https://vtsstr4.tv24.vn/live/SCTV22_HD_new.smil/playlist.m3u8
