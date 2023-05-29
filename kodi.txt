@@ -130,7 +130,7 @@ https://api.anttv.xyz/get/vtvcab/vtvcab3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-name="VTVCab16-ON-Football-HD" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTVCab16-ON-Football-HD.png",ON Football HD
 https://api.anttv.xyz/get/vtvcab/vtvcab16/playlist.m3u8
-http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7Ulu6DdFdEKoNRZC1kSMUKdg/m3u8
+#http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7Ulu6DdFdEKoNRZC1kSMUKdg/m3u8
 
 #EXTINF:-1 tvg-id="vtvcab18hd" tvg-name="VTVCab18-ON-Sports-News" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTVCab18-ON-Sports-News.png",ON Sports News
 https://api.anttv.xyz/get/vtvcab/vtvcab18/playlist.m3u8
@@ -216,11 +216,11 @@ https://k4dzr60ab.vtvgiaitri.vn/vtv04/vtv04@1080p.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" tvg-name="VTV5" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV5.png",VTV5 HD
 http://live-ali4.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
 
-#EXTINF:-1 tvg-id="vtv5hdtnb" tvg-name="VTV5-TNB" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV5-TNB.png",VTV5 HD - Tây Nam Bộ
-https://vips-livecdn.fptplay.net/hda3/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+#EXTINF:-1 tvg-id="vtv5hdtnb" tvg-name="VTV5-TNB" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV5-TNB.png",VTV5 HD - Tây Nam Bộ (FPT)
+udp://@225.1.2.236:30120
 
-#EXTINF:-1 tvg-id="vtv5hdtn" tvg-name="VTV5-TN" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV5-TN.png",VTV5 HD - Tây Nguyên
-https://code.vthanhtivi.pw/getlink/tv360/207/2.m3u8
+#EXTINF:-1 tvg-id="vtv5hdtn" tvg-name="VTV5-TN" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV5-TN.png",VTV5 HD - Tây Nguyên (FPT)
+udp://@225.1.1.108:30120
 
 #EXTINF:-1 tvg-id="vtv6hd" tvg-name="VTV6" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV6.png",VTV Can Tho
 https://hqth.me/vtv6360
@@ -259,6 +259,80 @@ https://tiemnhazunn.click/vieon/htv7.php
 #EXTINF:-1 tvg-id="htv9hd" tvg-name="HTV9" group-title="HTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HTV9.png",HTV9 HD
 https://tiemnhazunn.click/vieon/htv9.php
 #https://code.vthanhtivi.pw/getlink/mytv/190/hd.m3u8
+
+
+
+
+
+#-*--K+--*-#
+
+#EXTINF:-1 tvg-id="ksport1hd" tvg-name="KSPORT1HD" group-title="K+" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/KSPORT1.png",K+SPORT1
+
+
+#EXTINF:-1 tvg-id="ksport2hd" tvg-name="KSPORT2HD" group-title="K+" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/KSPORT2.png",K+SPORT2
+
+
+#EXTINF:-1 tvg-id="kcinehd" tvg-name="KCINEHD" group-title="K+" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/KCINE.png",K+CINE
+http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UnEUF_PuDX8GqPgBymlu6t4/m3u8
+
+#EXTINF:-1 tvg-id="klifehd" tvg-name="KLIFEHD" group-title="K+" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/KLIFE.png",K+LIFE
+http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UgcPGlnD-MJPZMusJsDI3Ks/m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -539,21 +613,6 @@ https://tiemnhazunn.click/vieon/htv9.php
 
 
 
-
-
-#-*--K+--*-#
-
-#EXTINF:-1 tvg-id="ksport1hd" tvg-name="KSPORT1HD" group-title="K+" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/KSPORT1.png",K+SPORT1
-
-
-#EXTINF:-1 tvg-id="ksport2hd" tvg-name="KSPORT2HD" group-title="K+" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/KSPORT2.png",K+SPORT2
-
-
-#EXTINF:-1 tvg-id="kcinehd" tvg-name="KCINEHD" group-title="K+" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/KCINE.png",K+CINE
-http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UnEUF_PuDX8GqPgBymlu6t4/m3u8
-
-#EXTINF:-1 tvg-id="klifehd" tvg-name="KLIFEHD" group-title="K+" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/KLIFE.png",K+LIFE
-http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UgcPGlnD-MJPZMusJsDI3Ks/m3u8
 
 
 
