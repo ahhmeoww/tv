@@ -7,6 +7,9 @@
 #EXTINF:-1 tvg-id="boxmovie1" tvg-name="BOX Movie 1" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BOX-MOVIE-1.png",BOX MOVIE 1
 https://vtsstr7.tv24.vn/live/smil:BOX_MOVIE_HD.smil/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="boxmovie1" tvg-name="BOX Movie 1" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BOX-MOVIE-1.png",BOX MOVIE 1 CLIPTV
+https://code.vthanhtivi.pw/getlink/cliptv/822/chunklist_b5128000.m3u8
+
 #EXTINF:-1 tvg-id="boxmovie1" tvg-name="BOX-MOVIE-1" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BOX-MOVIE-1.png",BOX MOVIE 1 SCTV
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http://sctvonline.vn
 
@@ -18,6 +21,9 @@ https://code.vthanhtivi.pw/getlink/mytv/105/hd.m3u8
 
 #EXTINF:-1 tvg-id="hollywoodclassics" tvg-name="HOLLYWOOD-CLASSICS" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HOLLYWOOD-CLASSICS.png",HOLLYWOOD CLASSICS
 https://vtsstr7.tv24.vn/live/smil:Hollywood.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="hollywoodclassics" tvg-name="HOLLYWOOD-CLASSICS" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HOLLYWOOD-CLASSICS.png",HOLLYWOOD CLASSICS CLIPTV
+https://code.vthanhtivi.pw/getlink/cliptv/825/chunklist_b5128000.m3u8
 
 #EXTINF:-1 tvg-id="hollywoodclassics" tvg-name="HOLLYWOOD-CLASSICS" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HOLLYWOOD-CLASSICS.png",HOLLYWOOD CLASSICS SCTV
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http://sctvonline.vn
@@ -136,13 +142,16 @@ https://live-ali2.tv360.vn/manifest/HTV_The_Thao_HD-50fps/playlist_HTV-TheThao-H
 https://api.anttv.xyz/get/vtvcab/vtvcab6/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab3hd" tvg-name="VTVCab3-ON-Sports-HD" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTVCab3-ON-Sports-HD.png",ON Sports HD
-https://api.anttv.xyz/get/vtvcab/vtvcab3/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/cliptv/on-sports/chunklist_b5128000.m3u8
+#https://api.anttv.xyz/get/vtvcab/vtvcab3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-name="VTVCab16-ON-Football-HD" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTVCab16-ON-Football-HD.png",ON Football HD
-https://api.anttv.xyz/get/vtvcab/vtvcab16/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/cliptv/on-football/chunklist_b5128000.m3u8
+#https://api.anttv.xyz/get/vtvcab/vtvcab16/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab18hd" tvg-name="VTVCab18-ON-Sports-News" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTVCab18-ON-Sports-News.png",ON Sports News
-https://api.anttv.xyz/get/vtvcab/vtvcab18/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/cliptv/on-sports-news/chunklist_b5128000.m3u8
+#https://api.anttv.xyz/get/vtvcab/vtvcab18/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ON-Volleyball" tvg-name="ON-Volleyball" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTVCab18-ON-Sports-News.png",ON Volleyball
 
