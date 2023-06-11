@@ -85,7 +85,7 @@ https://vtsstr7.tv24.vn/live/smil:Woman.smil/chunklist.m3u8
 https://code.vthanhtivi.pw/getlink/tv360/237/2.m3u8
 
 #EXTINF:-1 tvg-id="drfithd" tvg-name="DRFIT" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/DRFIT.png",DR.FIT HD
-https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sctvonline.vn
+https://code.vthanhtivi.pw/getlink/cliptv/drfit-hd/chunklist_b5128000.m3u8
 
 #EXTINF:-1 tvg-id="hgtv" tvg-name="HGTV" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HGTV.png",HGTV
 https://code.vthanhtivi.pw/getlink/tv360/99/2.m3u8
@@ -171,7 +171,7 @@ udp://@225.1.4.215:30120
 udp://@225.1.4.83:30120
 
 #EXTINF:-1 tvg-id="discoveryhd" tvg-name="DISCOVERY" group-title="SCIENCE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/DISCOVERY.png",DISCOVERY CHANNEL HD
-https://e4.endpoint.cdn.sctvonline.vn/hls/discovery/index.m3u8?kiptv|Referer=http://sctvonline.vn/
+http://sg.tinchuanchuaanh.com:8080/DISCOVERY_HD/index.m3u8
 #udp://@225.1.4.24:30120
 
 #EXTINF:-1 tvg-id="discoveryasiahd" tvg-name="DISCOVERY-ASIA" group-title="SCIENCE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/DISCOVERY-ASIA.png",DISCOVERY ASIA HD
