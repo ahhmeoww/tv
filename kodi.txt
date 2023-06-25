@@ -257,7 +257,7 @@ https://k4dzr60ab.vtvgiaitri.vn/vtv09/vtv09@1080p.m3u8
 #-*--HTV&HTVC--*-#
 
 #EXTINF:-1 tvg-id="htv1" tvg-name="HTV1" group-title="HTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HTV1.png",HTV1
-https://code.vthanhtivi.pw/getlink/htv/2631/playlist.m3u8
+https://api.anttv.xyz/get/htv/2631/playlist.m3u8
 
 #EXTINF:-1 tvg-id="htv2hd" tvg-name="HTV2" group-title="HTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HTV2.png",HTV2 HD
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
@@ -266,7 +266,7 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV3-SD-480p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="htv4" tvg-name="HTV-KEY" group-title="HTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HTV-KEY.png",HTV KEY
-https://code.vthanhtivi.pw/getlink/htv/2528/playlist.m3u8
+https://api.anttv.xyz/get/htv/2528/playlist.m3u8
 
 #EXTINF:-1 tvg-id="htv7hd" tvg-name="HTV7" group-title="HTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HTV7.png",HTV7 HD
 https://code.vthanhtivi.pw/getlink/mytv/128/hd.m3u8
@@ -290,6 +290,117 @@ http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UgcPGlnD-MJPZMusJsDI3Ks/m3u8|u
 
 
 #EXTINF:-1 tvg-id="klifehd" tvg-name="KLIFEHD" group-title="K+" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/KLIFE.png",K+LIFE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
