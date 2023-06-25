@@ -220,38 +220,38 @@ http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 http://live-ali2.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
 
 #EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV2.png",VTV2 HD
-http://live-ali2.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8
+https://live-zlr1.tv360.vn/manifest/vtv2/playlist_1080p.m3u8
 
 #EXTINF:-1 tvg-id="vtv3hd" tvg-name="VTV3" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV3.png",VTV3 HD
-http://live-ali4.tv360.vn/manifest/VTV3/playlist_720p.m3u8
+https://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-5M.m3u8
 
 #EXTINF:-1 tvg-id="vtv4hd" tvg-name="VTV4" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV4.png",VTV4 HD
 https://k4dzr60ab.vtvgiaitri.vn/vtv04/vtv04@1080p.m3u8
+#https://livecdn-vthn-vnw.vieon.vn/vtc_staging/livetv/hd_vtv4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hd" tvg-name="VTV5" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV5.png",VTV5 HD
-http://live-ali4.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
+https://live-ali2.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hdtnb" tvg-name="VTV5-TNB" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV5-TNB.png",VTV5 HD - Tây Nam Bộ
-https://code.vthanhtivi.pw/getlink/mytv/615/hd.m3u8
-#udp://@225.1.2.236:30120
+udp://@225.1.2.236:30120
 
 #EXTINF:-1 tvg-id="vtv5hdtn" tvg-name="VTV5-TN" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV5-TN.png",VTV5 HD - Tây Nguyên
-https://code.vthanhtivi.pw/getlink/tv360/207/2.m3u8
-#udp://@225.1.1.108:30120
+udp://@225.1.1.108:30120
 
 #EXTINF:-1 tvg-id="vtv6hd" tvg-name="VTV6" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV6.png",VTV Can Tho
-https://code.vthanhtivi.pw/getlink/mytv/212/hd.m3u8
-#https://hqth.me/vtv6360
+http://live-ali4.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
 
 #EXTINF:-1 tvg-id="vtv7hd" tvg-name="VTV7" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV7.png",VTV7 HD
 https://k4dzr60ab.vtvgiaitri.vn/vtv07/vtv07@1080p.m3u8
+#https://livecdn-vthn-vnw.vieon.vn/vtc_staging/live/hd_vtv7_test/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtv8hd" tvg-name="VTV8" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV8.png",VTV8 HD
 https://k4dzr60ab.vtvgiaitri.vn/vtv08/vtv08@1080p.m3u8
+#https://livecdn-vthn-vnw.vieon.vn/vtc_staging/live/hd_vtv8_test/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtv9hd" tvg-name="VTV9" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV9.png",VTV9 HD
 https://k4dzr60ab.vtvgiaitri.vn/vtv09/vtv09@1080p.m3u8
-
+#https://livecdn-vthn-vnw.vieon.vn/vtc_staging/livetv/hd_vtv9/playlist.m3u8
 
 
 #-*--HTV&HTVC--*-#
