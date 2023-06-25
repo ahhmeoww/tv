@@ -220,20 +220,16 @@ http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 http://live-ali2.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
 
 #EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV2.png",VTV2 HD
-https://code.vthanhtivi.pw/getlink/mytv/377/hd.m3u8
-#http://live-ali2.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8
+http://live-ali2.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8
 
 #EXTINF:-1 tvg-id="vtv3hd" tvg-name="VTV3" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV3.png",VTV3 HD
-https://code.vthanhtivi.pw/getlink/mytv/211/hd.m3u8
-#http://live-ali4.tv360.vn/manifest/VTV3/playlist_720p.m3u8
+http://live-ali4.tv360.vn/manifest/VTV3/playlist_720p.m3u8
 
 #EXTINF:-1 tvg-id="vtv4hd" tvg-name="VTV4" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV4.png",VTV4 HD
-https://code.vthanhtivi.pw/getlink/mytv/378/hd.m3u8
-#https://k4dzr60ab.vtvgiaitri.vn/vtv04/vtv04@1080p.m3u8
+https://k4dzr60ab.vtvgiaitri.vn/vtv04/vtv04@1080p.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hd" tvg-name="VTV5" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV5.png",VTV5 HD
-https://code.vthanhtivi.pw/getlink/mytv/379/hd.m3u8
-#http://live-ali4.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
+http://live-ali4.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hdtnb" tvg-name="VTV5-TNB" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV5-TNB.png",VTV5 HD - Tây Nam Bộ
 https://code.vthanhtivi.pw/getlink/mytv/615/hd.m3u8
@@ -248,16 +244,13 @@ https://code.vthanhtivi.pw/getlink/mytv/212/hd.m3u8
 #https://hqth.me/vtv6360
 
 #EXTINF:-1 tvg-id="vtv7hd" tvg-name="VTV7" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV7.png",VTV7 HD
-https://code.vthanhtivi.pw/getlink/mytv/459/hd.m3u8
-#https://k4dzr60ab.vtvgiaitri.vn/vtv07/vtv07@1080p.m3u8
+https://k4dzr60ab.vtvgiaitri.vn/vtv07/vtv07@1080p.m3u8
 
 #EXTINF:-1 tvg-id="vtv8hd" tvg-name="VTV8" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV8.png",VTV8 HD
-https://code.vthanhtivi.pw/getlink/mytv/380/hd.m3u8
-#https://k4dzr60ab.vtvgiaitri.vn/vtv08/vtv08@1080p.m3u8
+https://k4dzr60ab.vtvgiaitri.vn/vtv08/vtv08@1080p.m3u8
 
 #EXTINF:-1 tvg-id="vtv9hd" tvg-name="VTV9" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV9.png",VTV9 HD
-https://code.vthanhtivi.pw/getlink/mytv/381/hd.m3u8
-#https://k4dzr60ab.vtvgiaitri.vn/vtv09/vtv09@1080p.m3u8
+https://k4dzr60ab.vtvgiaitri.vn/vtv09/vtv09@1080p.m3u8
 
 
 
