@@ -5,31 +5,31 @@
 #-*--MOVIE--*-#
 
 #EXTINF:-1 tvg-id="boxmovie1" tvg-name="BOX Movie 1" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BOX-MOVIE-1.png",BOX MOVIE 1
-https://vtsstr7.tv24.vn/live/smil:BOX_MOVIE_HD.smil/chunklist.m3u8
+#https://vtsstr7.tv24.vn/live/smil:BOX_MOVIE_HD.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="boxmovie1" tvg-name="BOX Movie 1" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BOX-MOVIE-1.png",BOX MOVIE 1 CLIPTV
-https://code.vthanhtivi.pw/getlink/cliptv/822/chunklist_b5128000.m3u8
+#EXTINF:-1 tvg-id="boxmovie1" tvg-name="BOX Movie 1" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BOX-MOVIE-1.png",BOX MOVIE 1
+http://sg.tinchuanchuaanh.com:8080/BOX_MOVIE_1/index.m3u8
 
 #EXTINF:-1 tvg-id="inthebox" tvg-name="InTheBox Channel" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/IN-THE-BOX.png",IN THE BOX HD
-https://code.vthanhtivi.pw/getlink/cliptv/838/chunklist_b5128000.m3u8
+http://sg.tinchuanchuaanh.com:8080/IN_THE_BOX/index.m3u8
 
 #EXTINF:-1 tvg-id="boxhits" tvg-name="BOX-HITS" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BOX-HITS.png",BOX HITS HD
 https://code.vthanhtivi.pw/getlink/mytv/105/hd.m3u8
 
 #EXTINF:-1 tvg-id="hollywoodclassics" tvg-name="HOLLYWOOD-CLASSICS" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HOLLYWOOD-CLASSICS.png",HOLLYWOOD CLASSICS
-https://vtsstr7.tv24.vn/live/smil:Hollywood.smil/chunklist.m3u8
+#https://vtsstr7.tv24.vn/live/smil:Hollywood.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="hollywoodclassics" tvg-name="HOLLYWOOD-CLASSICS" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HOLLYWOOD-CLASSICS.png",HOLLYWOOD CLASSICS CLIPTV
-https://code.vthanhtivi.pw/getlink/cliptv/825/chunklist_b5128000.m3u8
+#EXTINF:-1 tvg-id="hollywoodclassics" tvg-name="HOLLYWOOD-CLASSICS" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HOLLYWOOD-CLASSICS.png",HOLLYWOOD CLASSICS
+http://sg.tinchuanchuaanh.com:8080/HOLLYWOOD_CLASSICS/index.m3u8
 
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HBO.png",HBO HD
-http://live.vthanhtivi.pw/hbo
+http://live.vthanhtivi.pw/hbo/index.m3u8
 
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HBO.png",HBO HD (FPT)
 udp://@225.1.2.54:30120
 
 #EXTINF:-1 tvg-id="cinemaxhd" tvg-name="CINEMAX" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/CINEMAX.png",CINEMAX HD
-http://live.vthanhtivi.pw/cinemax
+http://live.vthanhtivi.pw/cinemax/index.m3u8
 
 #EXTINF:-1 tvg-id="cinemaxhd" tvg-name="CINEMAX" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/CINEMAX.png",CINEMAX HD (FPT)
 udp://@225.1.2.143:30120
