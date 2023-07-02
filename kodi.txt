@@ -148,29 +148,28 @@ https://live-ali2.tv360.vn/manifest/HTV_The_Thao_HD-50fps/playlist_HTV-TheThao-H
 
 #EXTINF:-1 tvg-id="vtvcab3hd" tvg-name="VTVCab3-ON-Sports-HD" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTVCab3-ON-Sports-HD.png",ON Sports HD
 https://code.vthanhtivi.pw/getlink/cliptv/on-sports/chunklist_b5128000.m3u8
-#https://api.anttv.xyz/get/vtvcab/vtvcab3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-name="VTVCab16-ON-Football-HD" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTVCab16-ON-Football-HD.png",ON Football HD
 https://code.vthanhtivi.pw/getlink/cliptv/on-football/chunklist_b5128000.m3u8
-#https://api.anttv.xyz/get/vtvcab/vtvcab16/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab18hd" tvg-name="VTVCab18-ON-Sports-News" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTVCab18-ON-Sports-News.png",ON Sports News
 https://code.vthanhtivi.pw/getlink/cliptv/on-sports-news/chunklist_b5128000.m3u8
-#https://api.anttv.xyz/get/vtvcab/vtvcab18/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ON-Volleyball" tvg-name="ON-Volleyball" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTVCab18-ON-Sports-News.png",ON Volleyball
 
 
 
 
-
-
-
-
 #-*--SCIENCE--*-#
+
+#EXTINF:-1 tvg-id="ngchd" tvg-name="NAT-GEO" group-title="SCIENCE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/NAT-GEO.png",NATIONAL GEOGRAPHIC HD
+http://live.vthanhtivi.pw/natgeo
 
 #EXTINF:-1 tvg-id="ngchd" tvg-name="NAT-GEO" group-title="SCIENCE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/NAT-GEO.png",NATIONAL GEOGRAPHIC HD (FPT)
 udp://@225.1.4.215:30120
+
+#EXTINF:-1 tvg-id="ngwhd" tvg-name="NAT-GEO-WILD" group-title="SCIENCE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/NAT-GEO-WILD.png",NAT GEO WILD HD
+http://live.vthanhtivi.pw/ngw
 
 #EXTINF:-1 tvg-id="ngwhd" tvg-name="NAT-GEO-WILD" group-title="SCIENCE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/NAT-GEO-WILD.png",NAT GEO WILD HD (FPT)
 udp://@225.1.4.83:30120
@@ -184,7 +183,7 @@ http://sg.tinchuanchuaanh.com:8080/DISCOVERY_ASIA_HD/index.m3u8
 #udp://@225.1.3.45:30120
 
 #EXTINF:-1 tvg-id="outdoorhd" tvg-name="OUTDOOR-CHANNEL" group-title="SCIENCE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/OUTDOOR-CHANNEL.png",OUTDOOR CHANNEL HD
-https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+https://code.vthanhtivi.pw/getlink/mytv/191/hd.m3u8
 #udp://@225.1.4.210:30120
 
 #EXTINF:-1 tvg-id="animalhd" tvg-name="ANIMAL-PLANET" group-title="SCIENCE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/ANIMAL-PLANET.png",ANIMAL PLANET HD
@@ -192,8 +191,7 @@ http://sg.tinchuanchuaanh.com:8080/ANIMAL_PLANET_HD/index.m3u8
 #udp://@225.1.4.209:30120
 
 #EXTINF:-1 tvg-id="planetearthhd" tvg-name="PLANET-EARTH" group-title="SCIENCE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/PLANET-EARTH.png",PLANET EARTH HD
-https://vtsstr7.tv24.vn/live/smil:Planet_Earth.smil/chunklist.m3u8
-#https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8|Referer=http://sctvonline.vn
+https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8|Referer=http://sctvonline.vn
 
 #EXTINF:-1 tvg-id="LOVE-NATURE" tvg-name="LOVE-NATURE" group-title="SCIENCE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/LOVE-NATURE.png",LOVE NATURE
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
@@ -206,7 +204,7 @@ http://sg.tinchuanchuaanh.com:8080/BBC_EARTH_HD/index.m3u8
 udp://@225.1.4.23:30120
 
 #EXTINF:-1 tvg-id="davinci" tvg-name="DAVINCI" group-title="SCIENCE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/DAVINCI.png",DAVINCI HD
-https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+https://code.vthanhtivi.pw/getlink/mytv/294/hd.m3u8
 #udp://@225.1.4.208:30120
 
 
@@ -233,39 +231,38 @@ http://live.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV2.png",VTV2 HD
 http://live-ali2.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8
 
-
 #EXTINF:-1 tvg-id="vtv3hd" tvg-name="VTV3" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV3.png",VTV3 HD
 https://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-5M.m3u8
 
 #EXTINF:-1 tvg-id="vtv4hd" tvg-name="VTV4" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV4.png",VTV4 HD
-https://livecdn-vthn-vnw.vieon.vn/vtc_staging/livetv/hd_vtv4/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/mytv/378/hd.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hd" tvg-name="VTV5" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV5.png",VTV5 HD
 https://live-ali2.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hdtnb" tvg-name="VTV5-TNB" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV5-TNB.png",VTV5 HD - Tây Nam Bộ
-udp://@225.1.2.236:30120
+https://code.vthanhtivi.pw/getlink/mytv/615/hd.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hdtn" tvg-name="VTV5-TN" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV5-TN.png",VTV5 HD - Tây Nguyên
-udp://@225.1.1.108:30120
+https://code.vthanhtivi.pw/getlink/tv360/207/2.m3u8
 
 #EXTINF:-1 tvg-id="vtv6hd" tvg-name="VTV6" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV6.png",VTV Can Tho
 http://live-ali4.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
 
 #EXTINF:-1 tvg-id="vtv7hd" tvg-name="VTV7" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV7.png",VTV7 HD
-https://livecdn-vthn-vnw.vieon.vn/vtc_staging/live/hd_vtv7_test/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/mytv/459/hd.m3u8
 
 #EXTINF:-1 tvg-id="vtv8hd" tvg-name="VTV8" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV8.png",VTV8 HD
-https://livecdn-vthn-vnw.vieon.vn/vtc_staging/live/hd_vtv8_test/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/mytv/380/hd.m3u8
 
 #EXTINF:-1 tvg-id="vtv9hd" tvg-name="VTV9" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV9.png",VTV9 HD
-https://livecdn-vthn-vnw.vieon.vn/vtc_staging/livetv/hd_vtv9/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/mytv/381/hd.m3u8
 
 
 #-*--HTV&HTVC--*-#
 
 #EXTINF:-1 tvg-id="htv1" tvg-name="HTV1" group-title="HTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HTV1.png",HTV1
-https://api.anttv.xyz/get/htv/2631/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/htv/2631/playlist.m3u8
 
 #EXTINF:-1 tvg-id="htv2hd" tvg-name="HTV2" group-title="HTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HTV2.png",HTV2 HD
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
@@ -274,7 +271,7 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV3-SD-480p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="htv4" tvg-name="HTV-KEY" group-title="HTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HTV-KEY.png",HTV KEY
-https://api.anttv.xyz/get/htv/2528/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/htv/2528/playlist.m3u8
 
 #EXTINF:-1 tvg-id="htv7hd" tvg-name="HTV7" group-title="HTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HTV7.png",HTV7 HD
 https://code.vthanhtivi.pw/getlink/mytv/128/hd.m3u8
@@ -289,16 +286,16 @@ https://code.vthanhtivi.pw/getlink/mytv/190/hd.m3u8
 #-*--K+--*-#
 
 #EXTINF:-1 tvg-id="ksport1hd" tvg-name="KSPORT1HD" group-title="K+" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/KSPORT1.png",K+SPORT1
-http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UnEUF_PuDX8GqPgBymlu6t4/m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+http://103.56.160.133:8081/ksport1
 
 #EXTINF:-1 tvg-id="ksport2hd" tvg-name="KSPORT2HD" group-title="K+" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/KSPORT2.png",K+SPORT2
-http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UgcPGlnD-MJPZMusJsDI3Ks/m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+http://103.56.160.133:8081/ksport2
 
 #EXTINF:-1 tvg-id="kcinehd" tvg-name="KCINEHD" group-title="K+" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/KCINE.png",K+CINE
-
+http://103.56.160.133:8081/kcine
 
 #EXTINF:-1 tvg-id="klifehd" tvg-name="KLIFEHD" group-title="K+" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/KLIFE.png",K+LIFE
-
+http://103.56.160.133:8081/klife
 
 
 
