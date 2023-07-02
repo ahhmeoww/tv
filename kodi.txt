@@ -72,7 +72,7 @@ http://sg.tinchuanchuaanh.com:8080/AXN_HD/index.m3u8
 
 
 #EXTINF:-1 tvg-id="afnhd" tvg-name="AFN" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/AFN.png",AFN HD
-https://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+https://code.vthanhtivi.pw/getlink/mytv/298/hd.m3u8
 #udp://@225.1.4.36:30120
 
 #EXTINF:-1 tvg-id="tlchd" tvg-name="TLC" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/TLC.png",TRAVEL & LIVING HD
@@ -80,12 +80,11 @@ http://sg.tinchuanchuaanh.com:8080/TLC_HD/index.m3u8
 #udp://@225.1.4.26:30120
 
 #EXTINF:-1 tvg-id="kix" tvg-name="KIX" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/KIX.png",KIX HD
-https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+https://code.vthanhtivi.pw/getlink/fptplay/kix/chunklist_b5000000.m3u8
 
 
 #EXTINF:-1 tvg-id="woman" tvg-name="WOMAN" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/WOMAN.png",WOMAN HD
-https://vtsstr7.tv24.vn/live/smil:Woman.smil/chunklist.m3u8
-#https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8|Referer=http://sctvonline.vn
+https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8|Referer=http://sctvonline.vn
 
 #EXTINF:-1 tvg-id="man" tvg-name="MAN" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/MAN.png",MAN HD
 https://code.vthanhtivi.pw/getlink/tv360/237/2.m3u8
