@@ -290,16 +290,16 @@ https://code.vthanhtivi.pw/getlink/vieon/htv9-hd/playlist.m3u8
 #-*--K+--*-#
 
 #EXTINF:-1 tvg-id="ksport1hd" tvg-name="KSPORT1HD" group-title="K+" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/KSPORT1.png",K+SPORT1
-http://103.56.160.133:8081/ksport1
+#http://103.56.160.133:8081/ksport1
 
 #EXTINF:-1 tvg-id="ksport2hd" tvg-name="KSPORT2HD" group-title="K+" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/KSPORT2.png",K+SPORT2
-http://103.56.160.133:8081/ksport2
+#http://103.56.160.133:8081/ksport2
 
 #EXTINF:-1 tvg-id="kcinehd" tvg-name="KCINEHD" group-title="K+" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/KCINE.png",K+CINE
-http://103.56.160.133:8081/kcine
+#http://103.56.160.133:8081/kcine
 
 #EXTINF:-1 tvg-id="klifehd" tvg-name="KLIFEHD" group-title="K+" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/KLIFE.png",K+LIFE
-http://103.56.160.133:8081/klife
+#http://103.56.160.133:8081/klife
 
 
 
