@@ -242,7 +242,7 @@ https://code.vthanhtivi.pw/getlink/mytv/378/hd.m3u8
 https://live-ali2.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hdtnb" tvg-name="VTV5-TNB" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV5-TNB.png",VTV5 HD - Tây Nam Bộ
-http://stream.cvmtv.site/vtv5tnb?token=live
+https://tiemnhazunn.click/tv360/tv360.php?id=157
 
 #EXTINF:-1 tvg-id="vtv5hdtn" tvg-name="VTV5-TN" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV5-TN.png",VTV5 HD - Tây Nguyên
 https://tiemnhazunn.click/tv360/tv360.php?id=207
