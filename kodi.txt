@@ -148,7 +148,7 @@ https://live-ali2.tv360.vn/manifest/HTV_The_Thao_HD-50fps/playlist_HTV-TheThao-H
 
 
 #EXTINF:-1 tvg-id="vtvcab6hd" tvg-name="VTVCab6-ON-Sports+" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTVCab6-ON-Sports+.png",ON Sports+
-
+https://code.vthanhtivi.pw/getlink/vieon2/vtvcab6-on-sport-plus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab3hd" tvg-name="VTVCab3-ON-Sports-HD" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTVCab3-ON-Sports-HD.png",ON Sports HD
 https://code.vthanhtivi.pw/getlink/cliptv/on-sports/chunklist_b5128000.m3u8
@@ -239,7 +239,7 @@ http://live-ali2.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8
 https://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-5M.m3u8
 
 #EXTINF:-1 tvg-id="vtv4hd" tvg-name="VTV4" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV4.png",VTV4 HD
-https://code.vthanhtivi.pw/getlink/mytv/378/hd.m3u8
+https://fbvip88.com/fptplay/getfpt.php?id=vtv4-hd
 
 #EXTINF:-1 tvg-id="vtv5hd" tvg-name="VTV5" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV5.png",VTV5 HD
 https://live-ali2.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
@@ -254,13 +254,13 @@ https://tiemnhazunn.click/tv360/tv360.php?id=207
 http://live-ali4.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
 
 #EXTINF:-1 tvg-id="vtv7hd" tvg-name="VTV7" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV7.png",VTV7 HD
-https://code.vthanhtivi.pw/getlink/mytv/459/hd.m3u8
+https://fbvip88.com/fptplay/getfpt.php?id=vtv7-hd
 
 #EXTINF:-1 tvg-id="vtv8hd" tvg-name="VTV8" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV8.png",VTV8 HD
-https://code.vthanhtivi.pw/getlink/mytv/380/hd.m3u8
+https://fbvip88.com/fptplay/getfpt.php?id=vtv8-hd
 
 #EXTINF:-1 tvg-id="vtv9hd" tvg-name="VTV9" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV9.png",VTV9 HD
-https://code.vthanhtivi.pw/getlink/mytv/381/hd.m3u8
+https://fbvip88.com/fptplay/getfpt.php?id=vtv9-hd
 
 
 #-*--HTV&HTVC--*-#
@@ -278,10 +278,10 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV3-SD-480p/playlist.m3u8
 https://code.vthanhtivi.pw/getlink/htv/2528/playlist.m3u8
 
 #EXTINF:-1 tvg-id="htv7hd" tvg-name="HTV7" group-title="HTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HTV7.png",HTV7 HD
-https://tiemnhazunn.click/vieon/htv7.php
+https://code.vthanhtivi.pw/getlink/vieon/htv7-hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="htv9hd" tvg-name="HTV9" group-title="HTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HTV9.png",HTV9 HD
-https://tiemnhazunn.click/vieon/htv9.php
+https://code.vthanhtivi.pw/getlink/vieon/htv9-hd/playlist.m3u8
 
 
 
