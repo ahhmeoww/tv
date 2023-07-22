@@ -221,7 +221,7 @@ https://live-ali4.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
 https://live-zlr1.tv360.vn/manifest/vtv2/playlist_1080p.m3u8
 
 #EXTINF:-1 tvg-id="vtv3hd" tvg-name="VTV3" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV3.png",VTV3 HD
-https://live-ali2.tv360.vn/manifest/VTV3/playlist_1080p-5M.m3u8
+http://live-zlr1.tv360.vn/manifest/VTV3/playlist_720p.m3u8
 
 #EXTINF:-1 tvg-id="vtv4hd" tvg-name="VTV4" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV4.png",VTV4 HD
 https://code.vthanhtivi.pw/getlink/tv360/108/2.m3u8
