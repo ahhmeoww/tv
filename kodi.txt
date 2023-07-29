@@ -119,6 +119,17 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 tvg-id="REDBULL-TV" tvg-name="REDBULL-TV" group-title="SPORT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/REDBULL-TV.png",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/2004294/BoRB-USPri/master_1660.m3u8
 
+#EXTINF:-1 tvg-id="SkySport-EPL-FHD" tvg-name="SkySport-EPL-FHD" group-title="SPORT" tvg-logo="https://e0.365dm.com/tvlogos/channels/1303-Logo.png",SkySport EPL FHD
+https://s.net.vn/tMPt
+
+#EXTINF:-1 tvg-id="SkySport-Football-FHD" tvg-name="SkySport-Football-FHD" group-title="SPORT" tvg-logo="https://e0.365dm.com/tvlogos/channels/3838-Logo.png",SkySport Football FHD
+https://s.net.vn/tPtw
+
+#EXTINF:-1 tvg-id="SkySport-F1-FHD" tvg-name="SkySport-F1-FHD" group-title="SPORT" tvg-logo="https://e0.365dm.com/tvlogos/channels/1306-Logo.png",SkySport Football FHD
+https://g2.by/UwJu
+
+
+
 
 
 
