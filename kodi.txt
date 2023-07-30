@@ -125,7 +125,7 @@ https://s.net.vn/tMPt
 #EXTINF:-1 tvg-id="SkySport-Football-FHD" tvg-name="SkySport-Football-FHD" group-title="SPORT" tvg-logo="https://e0.365dm.com/tvlogos/channels/3838-Logo.png",SkySport Football FHD
 https://s.net.vn/tPtw
 
-#EXTINF:-1 tvg-id="SkySport-F1-FHD" tvg-name="SkySport-F1-FHD" group-title="SPORT" tvg-logo="https://e0.365dm.com/tvlogos/channels/1306-Logo.png",SkySport Football FHD
+#EXTINF:-1 tvg-id="SkySport-F1-FHD" tvg-name="SkySport-F1-FHD" group-title="SPORT" tvg-logo="https://e0.365dm.com/tvlogos/channels/1306-Logo.png",SkySport F1 FHD
 https://g2.by/UwJu
 
 
