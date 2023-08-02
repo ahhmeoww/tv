@@ -14,7 +14,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8|Referer=http://sc
 https://arcgmoblie.site/cliptvmobile/test.php?id=in-the-box-channel
 
 #EXTINF:-1 tvg-id="inthebox" tvg-name="InTheBox Channel" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/IN-THE-BOX.png",IN THE BOX HD
-
+http://live-vnp.vthanhtivi.pw:18001/IN_THE_BOX/index.m3u8
 
 #EXTINF:-1 tvg-id="boxhits" tvg-name="BOX-HITS" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BOX-HITS.png",BOX HITS HD
 https://code.vthanhtivi.pw/getlink/mytv/105/hd.m3u8
