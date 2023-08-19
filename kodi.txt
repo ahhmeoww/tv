@@ -11,9 +11,6 @@ http://live-vnp.vthanhtivi.pw:18001/BOX_MOVIE_1/index.m3u8
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8|Referer=http://sctvonline.vn
 
 #EXTINF:-1 tvg-id="inthebox" tvg-name="InTheBox Channel" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/IN-THE-BOX.png",IN THE BOX HD
-https://arcgmoblie.site/cliptvmobile/test.php?id=in-the-box-channel
-
-#EXTINF:-1 tvg-id="inthebox" tvg-name="InTheBox Channel" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/IN-THE-BOX.png",IN THE BOX HD
 http://live-vnp.vthanhtivi.pw:18001/IN_THE_BOX/index.m3u8
 
 #EXTINF:-1 tvg-id="boxhits" tvg-name="BOX-HITS" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BOX-HITS.png",BOX HITS HD
@@ -67,8 +64,8 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/index.m3u8|Referer=http://s
 #-*--ENTERTAINMENT--*-#
 
 #EXTINF:-1 tvg-id="axnhd" tvg-name="AXN" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/AXN.png",AXN HD
-#http://sg.tinchuanchuaanh.com:8080/AXN_HD/index.m3u8
-udp://@225.1.4.9:30120
+http://live-vnp.vthanhtivi.pw:18001/AXN_HD/index.m3u8
+#udp://@225.1.4.9:30120
 
 
 #EXTINF:-1 tvg-id="afnhd" tvg-name="AFN" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/AFN.png",AFN HD
@@ -122,28 +119,26 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 tvg-id="REDBULL-TV" tvg-name="REDBULL-TV" group-title="SPORT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/REDBULL-TV.png",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/2004294/BoRB-USPri/master_1660.m3u8
 
+
+
 #EXTINF:-1 tvg-id="SkySport-EPL-FHD" tvg-name="SkySport-EPL-FHD" group-title="SPORT" tvg-logo="https://e0.365dm.com/tvlogos/channels/1303-Logo.png",SkySport EPL FHD
-https://s.net.vn/tMPt
+
 
 #EXTINF:-1 tvg-id="SkySport-Football-FHD" tvg-name="SkySport-Football-FHD" group-title="SPORT" tvg-logo="https://e0.365dm.com/tvlogos/channels/3838-Logo.png",SkySport Football FHD
-https://s.net.vn/tPtw
 
 #EXTINF:-1 tvg-id="SkySport-F1-FHD" tvg-name="SkySport-F1-FHD" group-title="SPORT" tvg-logo="https://e0.365dm.com/tvlogos/channels/1306-Logo.png",SkySport F1 FHD
-https://g2.by/UwJu
-
-
 
 
 
 
 #EXTINF:-1 tvg-id="sctv15hd" tvg-name="SCTV15" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/SCTV15.png",SCTV15 HD
-https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV15.smil/chunklist_b1692000.m3u8|Referer=http://sctvonline.vn
+https://e7.endpoint.cdn.sctvonline.vn/live/SCTV15HD/playlist.m3u8|Referer=http://sctvonline.vn
 
 #EXTINF:-1 tvg-id="sctv17hd" tvg-name="SCTV17" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/SCTV17.png",SCTV17 HD
 https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist_b1692000.m3u8|Referer=http://sctvonline.vn
 
 #EXTINF:-1 tvg-id="sctv22hd" tvg-name="SCTV22" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/SCTV22.png",SCTV22 HD
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/s1/index.m3u8|Referer=http://sctvonline.vn
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/index.m3u8|Referer=http://sctvonline.vn
 
 #EXTINF:-1 tvg-id="BTV5" tvg-name="BTV5" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BTV5.png",BTV5 HD
 https://code.vthanhtivi.pw/getlink/tv360/2380/2.m3u8
@@ -162,7 +157,7 @@ https://code.vthanhtivi.pw/getlink/vieon2/vtvcab3-on-sports/playlist.m3u8
 https://code.vthanhtivi.pw/getlink/vieon2/vtvcab16-on-football/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab18hd" tvg-name="VTVCab18-ON-Sports-News" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTVCab18-ON-Sports-News.png",ON Sports News
-ttps://code.vthanhtivi.pw/getlink/vieon2/vtvcab18-on-sports-news/playlist.m3u8
+http://128.199.214.24/OSN/mpegts
 
 #EXTINF:-1 tvg-id="ON-Volleyball" tvg-name="ON-Volleyball" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTVCab18-ON-Sports-News.png",ON Volleyball
 
@@ -184,19 +179,15 @@ http://live.hqth.xyz/ngw
 udp://@225.1.4.83:30120
 
 #EXTINF:-1 tvg-id="discoveryhd" tvg-name="DISCOVERY" group-title="SCIENCE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/DISCOVERY.png",DISCOVERY CHANNEL HD
-#http://sg.tinchuanchuaanh.com:8080/DISCOVERY_HD/index.m3u8
 udp://@225.1.4.24:30120
 
 #EXTINF:-1 tvg-id="discoveryasiahd" tvg-name="DISCOVERY-ASIA" group-title="SCIENCE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/DISCOVERY-ASIA.png",DISCOVERY ASIA HD
-#http://sg.tinchuanchuaanh.com:8080/DISCOVERY_ASIA_HD/index.m3u8
 udp://@225.1.3.45:30120
 
 #EXTINF:-1 tvg-id="outdoorhd" tvg-name="OUTDOOR-CHANNEL" group-title="SCIENCE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/OUTDOOR-CHANNEL.png",OUTDOOR CHANNEL HD
-https://code.vthanhtivi.pw/getlink/mytv/191/hd.m3u8
-#udp://@225.1.4.210:30120
+udp://@225.1.4.210:30120
 
 #EXTINF:-1 tvg-id="animalhd" tvg-name="ANIMAL-PLANET" group-title="SCIENCE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/ANIMAL-PLANET.png",ANIMAL PLANET HD
-#http://sg.tinchuanchuaanh.com:8080/ANIMAL_PLANET_HD/index.m3u8
 udp://@225.1.4.209:30120
 
 #EXTINF:-1 tvg-id="planetearthhd" tvg-name="PLANET-EARTH" group-title="SCIENCE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/PLANET-EARTH.png",PLANET EARTH HD
@@ -206,15 +197,13 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8|Referer=http://
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 #EXTINF:-1 tvg-id="bbcearth" tvg-name="BBC-EARTH" group-title="SCIENCE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BBC-EARTH.png",BBC EARTH
-#http://sg.tinchuanchuaanh.com:8080/BBC_EARTH_HD/index.m3u8
 udp://@225.1.4.21:30120
 
 #EXTINF:-1 tvg-id="bbclifestyle" tvg-name="BBC-LIFE-STYLE" group-title="SCIENCE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BBC-LIFE-STYLE.png",BBC LIFE STYLE (FPT)
 udp://@225.1.4.23:30120
 
 #EXTINF:-1 tvg-id="davinci" tvg-name="DAVINCI" group-title="SCIENCE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/DAVINCI.png",DAVINCI HD
-https://code.vthanhtivi.pw/getlink/mytv/294/hd.m3u8
-#udp://@225.1.4.208:30120
+udp://@225.1.4.208:30120
 
 
 #EXTINF:-1 tvg-id="clarity4k" tvg-name="CLARITY-4K" group-title="SCIENCE" tvg-logo="",CLARITY 4K
@@ -226,7 +215,7 @@ http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 
 #EXTINF:-1 tvg-id="historyhd" tvg-name="HISTORY" group-title="SCIENCE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HISTORY.png",HISTORY HD
-http://sg.tinchuanchuaanh.com:8080/HISTORY_HD/index.m3u8
+http://live-vnp.vthanhtivi.pw:18001/HISTORY_HD/index.m3u8
 
 
 
