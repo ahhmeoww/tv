@@ -34,7 +34,7 @@ http://live.vthanhtivi.pw/hbo
 https://code.vthanhtivi.pw/getlink/tvfree/hbo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HBO.png",HBO HD (FPT)
-udp://@225.1.2.54:30120
+udp://@225.1.4.90:30120
 
 #EXTINF:-1 tvg-id="cinemaxhd" tvg-name="CINEMAX" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/CINEMAX.png",CINEMAX HD
 http://live.vthanhtivi.pw/cinemax
@@ -43,7 +43,7 @@ http://live.vthanhtivi.pw/cinemax
 https://code.vthanhtivi.pw/getlink/tvfree/cinemax/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cinemaxhd" tvg-name="CINEMAX" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/CINEMAX.png",CINEMAX HD (FPT)
-udp://@225.1.2.143:30120
+udp://@225.1.4.205:30120
 
 #EXTINF:-1 tvg-id="cinemaworld" tvg-name="CINEMA-WORLD" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/CINEMA-WORLD.png",CINEMA WORLD HD
 udp://@225.1.4.15:30120
