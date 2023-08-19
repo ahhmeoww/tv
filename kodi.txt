@@ -44,11 +44,9 @@ https://code.vthanhtivi.pw/getlink/tvfree/cinemax/playlist.m3u8
 udp://@225.1.2.143:30120
 
 #EXTINF:-1 tvg-id="cinemaworld" tvg-name="CINEMA-WORLD" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/CINEMA-WORLD.png",CINEMA WORLD HD
-#http://sg.tinchuanchuaanh.com:8080/CINEMAWORLD_HD/index.m3u8
 udp://@225.1.4.15:30120
 
 #EXTINF:-1 tvg-id="warnertvhd" tvg-name="WARNER-TV" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/WARNER-TV.png",WARNER TV HD
-#http://sg.tinchuanchuaanh.com:8080/WARNER_TV_HD/index.m3u8
 udp://@225.1.4.14:30120
 
 
@@ -67,17 +65,11 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/index.m3u8|Referer=http://s
 http://live-vnp.vthanhtivi.pw:18001/AXN_HD/index.m3u8
 #udp://@225.1.4.9:30120
 
-
 #EXTINF:-1 tvg-id="afnhd" tvg-name="AFN" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/AFN.png",AFN HD
-https://code.vthanhtivi.pw/getlink/mytv/298/hd.m3u8
-#udp://@225.1.4.36:30120
+udp://@225.1.4.36:30120
 
 #EXTINF:-1 tvg-id="tlchd" tvg-name="TLC" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/TLC.png",TRAVEL & LIVING HD
-#http://sg.tinchuanchuaanh.com:8080/TLC_HD/index.m3u8
 udp://@225.1.4.26:30120
-
-#EXTINF:-1 tvg-id="kix" tvg-name="KIX" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/KIX.png",KIX HD
-
 
 #EXTINF:-1 tvg-id="woman" tvg-name="WOMAN" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/WOMAN.png",WOMAN HD
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8|Referer=http://sctvonline.vn
@@ -89,10 +81,13 @@ https://code.vthanhtivi.pw/getlink/tv360/237/2.m3u8
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8|Referer=http://sctvonline.vn
 
 #EXTINF:-1 tvg-id="hgtv" tvg-name="HGTV" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HGTV.png",HGTV
-https://code.vthanhtivi.pw/getlink/tv360/99/2.m3u8
+
+
+#EXTINF:-1 tvg-id="kix" tvg-name="KIX" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/KIX.png",KIX HD
+
 
 #EXTINF:-1 group-title="KHÁC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg",DMAX
-http://sg.tinchuanchuaanh.com:8080/DMAX/index.m3u8
+
 
 #EXTINF:-1 group-title="🇺🇸 | MỸ" tvg-id="FoxEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/FOX_wordmark-red_2.svg/1200px-FOX_wordmark-red_2.svg.png",FOX
 
