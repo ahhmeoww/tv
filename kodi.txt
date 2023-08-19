@@ -116,17 +116,19 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-w
 #EXTINF:-1 tvg-id="tennischannel" tvg-name="TENNIS-CHANNEL" group-title="SPORT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/TENNIS-CHANNEL.png",TENNIS CHANNEL
 https://tennischannel-int-samsunguk.amagi.tv/playlist720_p.m3u8
 
+#EXTINF:-1 tvg-id="tennischannelfhd" tvg-name="TENNIS-CHANNEL-FHD" group-title="SPORT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/TENNIS-CHANNEL.png",TENNIS CHANNEL FHD
+http://ua-iptv.com:8080/live/johneita/3477919074/219136.m3u8
+
+
 #EXTINF:-1 tvg-id="REDBULL-TV" tvg-name="REDBULL-TV" group-title="SPORT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/REDBULL-TV.png",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/2004294/BoRB-USPri/master_1660.m3u8
 
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="FoxSports1" group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png",FS1
+http://ua-iptv.com:8080/live/johneita/3477919074/219086.m3u8
 
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="FoxSports2" group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png",FS2
+http://ua-iptv.com:8080/live/johneita/3477919074/219087.m3u8
 
-#EXTINF:-1 tvg-id="SkySport-EPL-FHD" tvg-name="SkySport-EPL-FHD" group-title="SPORT" tvg-logo="https://e0.365dm.com/tvlogos/channels/1303-Logo.png",SkySport EPL FHD
-
-
-#EXTINF:-1 tvg-id="SkySport-Football-FHD" tvg-name="SkySport-Football-FHD" group-title="SPORT" tvg-logo="https://e0.365dm.com/tvlogos/channels/3838-Logo.png",SkySport Football FHD
-
-#EXTINF:-1 tvg-id="SkySport-F1-FHD" tvg-name="SkySport-F1-FHD" group-title="SPORT" tvg-logo="https://e0.365dm.com/tvlogos/channels/1306-Logo.png",SkySport F1 FHD
 
 
 
@@ -216,7 +218,7 @@ udp://@225.1.4.23:30120
 udp://@225.1.4.208:30120
 
 
-#EXTINF:-1 tvg-id="clarity4k" tvg-name="CLARITY-4K" group-title="SCIENCE" tvg-logo="",CLARITY 4K
+#EXTINF:-1 tvg-id="clarity4k" tvg-name="CLARITY-4K" group-title="SCIENCE" tvg-logo="https://raw.githubusercontent.com/MrToBun007/AXT/main/Clarity.PNG",CLARITY 4K
 https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 
 
@@ -787,10 +789,7 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/index.m3u8
 #EXTINF:-1 group-title="THỂ THAO MỸ" tvg-id="ESPN2.us" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png",ESPN2 US
 
 
-#EXTINF:-1 group-title="THỂ THAO MỸ" tvg-id="FoxSports1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png",FS1
 
-
-#EXTINF:-1 group-title="THỂ THAO MỸ" tvg-id="FoxSports2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png",FS2
 
 
 #EXTINF:-1 tvg-id="BEIN-SPORTS-1" tvg-name="BEIN-SPORTS-1" group-title="SPORT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BEIN-SPORTS-1.png",Bein Sports 1 Premium
@@ -821,6 +820,14 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/index.m3u8
 
 
 #EXTINF:-1 tvg-id="SKY-SPORTS-2" tvg-name="SKY-SPORTS-2" group-title="SPORT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/SKY-SPORTS-2.png",SKY SPORTS 2
+
+
+#EXTINF:-1 tvg-id="SkySport-EPL-FHD" tvg-name="SkySport-EPL-FHD" group-title="SPORT" tvg-logo="https://e0.365dm.com/tvlogos/channels/1303-Logo.png",SkySport EPL FHD
+
+
+#EXTINF:-1 tvg-id="SkySport-Football-FHD" tvg-name="SkySport-Football-FHD" group-title="SPORT" tvg-logo="https://e0.365dm.com/tvlogos/channels/3838-Logo.png",SkySport Football FHD
+
+#EXTINF:-1 tvg-id="SkySport-F1-FHD" tvg-name="SkySport-F1-FHD" group-title="SPORT" tvg-logo="https://e0.365dm.com/tvlogos/channels/1306-Logo.png",SkySport F1 FHD
 
 
 
