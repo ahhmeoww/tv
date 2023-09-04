@@ -135,7 +135,7 @@ http://ua-iptv.com:8080/live/johneita/3477919074/219087.m3u8
 
 #EXTINF:-1 tvg-id="sctv15hd" tvg-name="SCTV15" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/SCTV15.png",SCTV15 HD
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
-https://e7.endpoint.cdn.sctvonline.vn/live/SCTV15HD/playlist.m3u8
+https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV15.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sctv17hd" tvg-name="SCTV17" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/SCTV17.png",SCTV17 HD
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
@@ -168,7 +168,7 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab3/index.m3u8
 https://e7.endpoint.cdn.sctvonline.vn/live/smil:VTVCAB16.smil/chunklist_w2005840737_b1692000.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab18hd" tvg-name="VTVCab18-ON-Sports-News" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTVCab18-ON-Sports-News.png",ON Sports News
-http://128.199.214.24/OSN/mpegts
+https://live2onsport.vtvcab.vn/dash/THETHAO_TINTUC_HD/m40_index.m3u8
 
 #EXTINF:-1 tvg-id="ON-Volleyball" tvg-name="ON-Volleyball" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTVCab18-ON-Sports-News.png",ON Volleyball
 
@@ -178,13 +178,13 @@ http://128.199.214.24/OSN/mpegts
 #-*--SCIENCE--*-#
 
 #EXTINF:-1 tvg-id="ngchd" tvg-name="NAT-GEO" group-title="SCIENCE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/NAT-GEO.png",NATIONAL GEOGRAPHIC HD
-http://live.hqth.xyz/natgeo
+http://live-vnp.vthanhtivi.pw:18001/NATGEO_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="ngchd" tvg-name="NAT-GEO" group-title="SCIENCE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/NAT-GEO.png",NATIONAL GEOGRAPHIC HD (FPT)
 udp://@225.1.4.215:30120
 
 #EXTINF:-1 tvg-id="ngwhd" tvg-name="NAT-GEO-WILD" group-title="SCIENCE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/NAT-GEO-WILD.png",NAT GEO WILD HD
-http://live.hqth.xyz/ngw
+http://live-vnp.vthanhtivi.pw:18001/NATGEO_WILD_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="ngwhd" tvg-name="NAT-GEO-WILD" group-title="SCIENCE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/NAT-GEO-WILD.png",NAT GEO WILD HD (FPT)
 udp://@225.1.4.83:30120
