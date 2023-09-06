@@ -1,5 +1,5 @@
-#EXTM3U url-tvg="http://trada.info/epg.xml"
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
+#http://trada.info/epg.xml
 
 #-*--MOVIE--*-#
 
