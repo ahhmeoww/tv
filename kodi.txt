@@ -4,30 +4,30 @@
 #-*--MOVIE--*-#
 
 #EXTINF:-1 tvg-id="boxmovie1" tvg-name="BOX Movie 1" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BOX-MOVIE-1.png",BOX MOVIE 1
-http://live-vnp.vthanhtivi.pw:18001/BOX_MOVIE_1/index.m3u8
+#http://live-vnp.vthanhtivi.pw:18001/BOX_MOVIE_1/index.m3u8
 
 #EXTINF:-1 tvg-id="boxmovie1" tvg-name="BOX Movie 1" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BOX-MOVIE-1.png",BOX MOVIE 1
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
 
 #EXTINF:-1 tvg-id="inthebox" tvg-name="InTheBox Channel" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/IN-THE-BOX.png",IN THE BOX HD
-http://live-vnp.vthanhtivi.pw:18001/IN_THE_BOX/index.m3u8
+#http://live-vnp.vthanhtivi.pw:18001/IN_THE_BOX/index.m3u8
 
 #EXTINF:-1 tvg-id="boxhits" tvg-name="BOX-HITS" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BOX-HITS.png",BOX HITS HD
-https://code.vthanhtivi.pw/getlink/mytv/105/hd.m3u8
+#https://code.vthanhtivi.pw/getlink/mytv/105/hd.m3u8
 
 #EXTINF:-1 tvg-id="boxhits" tvg-name="BOX-HITS" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BOX-HITS.png",BOX HITS HD 2
-https://code.vthanhtivi.pw/getlink/cliptv/c487677a08d706da3b322de818e7fd62/1692893765/box-hits/chunklist_b5128000.m3u8
+#https://code.vthanhtivi.pw/getlink/cliptv/c487677a08d706da3b322de818e7fd62/1692893765/box-hits/chunklist_b5128000.m3u8
 
 #EXTINF:-1 tvg-id="hollywoodclassics" tvg-name="HOLLYWOOD-CLASSICS" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HOLLYWOOD-CLASSICS.png",HOLLYWOOD CLASSICS
-http://live-vnp.vthanhtivi.pw:18001/HOLLYWOOD_CLASSICS/index.m3u8
+#http://live-vnp.vthanhtivi.pw:18001/HOLLYWOOD_CLASSICS/index.m3u8
 
 #EXTINF:-1 tvg-id="hollywoodclassics" tvg-name="HOLLYWOOD-CLASSICS" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HOLLYWOOD-CLASSICS.png",HOLLYWOOD CLASSICS
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
 
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HBO.png",HBO HD
-http://live.vthanhtivi.pw/hbo
+http://live-vnp.vthanhtivi.pw:18001/HBO/index.m3u8
 
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HBO.png",HBO HD 2
 https://code.vthanhtivi.pw/getlink/tvfree/hbo/playlist.m3u8
@@ -36,7 +36,7 @@ https://code.vthanhtivi.pw/getlink/tvfree/hbo/playlist.m3u8
 udp://@225.1.4.90:30120
 
 #EXTINF:-1 tvg-id="cinemaxhd" tvg-name="CINEMAX" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/CINEMAX.png",CINEMAX HD
-http://live.vthanhtivi.pw/cinemax
+http://live-vnp.vthanhtivi.pw:18001/CINEMAX/index.m3u8
 
 #EXTINF:-1 tvg-id="cinemaxhd" tvg-name="CINEMAX" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/CINEMAX.png",CINEMAX HD 2
 https://code.vthanhtivi.pw/getlink/tvfree/cinemax/playlist.m3u8
@@ -117,7 +117,6 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:-1 tvg-id="tennischannelfhd" tvg-name="TENNIS-CHANNEL-FHD" group-title="SPORT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/TENNIS-CHANNEL.png",TENNIS CHANNEL FHD
 http://ua-iptv.com:8080/live/johneita/3477919074/219136.m3u8
-
 
 #EXTINF:-1 tvg-id="REDBULL-TV" tvg-name="REDBULL-TV" group-title="SPORT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/REDBULL-TV.png",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/2004294/BoRB-USPri/master_1660.m3u8
@@ -277,8 +276,7 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/vtv9/index.m3u8
 #-*--HTV&HTVC--*-#
 
 #EXTINF:-1 tvg-id="htv1" tvg-name="HTV1" group-title="HTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HTV1.png",HTV1
-#https://code.vthanhtivi.pw/getlink/htv/2631/playlist.m3u8
-https://drm-livecdn.hplus.com.vn/htvonline/htv1.720p.nimble.tms/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/htv/2631/playlist.m3u8
 
 #EXTINF:-1 tvg-id="htv2hd" tvg-name="HTV2" group-title="HTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HTV2.png",HTV2 HD
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
