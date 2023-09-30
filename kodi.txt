@@ -11,13 +11,13 @@
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
 
 #EXTINF:-1 tvg-id="inthebox" tvg-name="InTheBox Channel" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/IN-THE-BOX.png",IN THE BOX HD
-#https://code.vthanhtivi.pw/getlink/cliptv/5fd1dbde6f8356ce485efab6c527a8fa/1695761762/in-the-box-channel/chunklist_b5128000.m3u8
+https://code.vthanhtivi.pw/getlink/cliptv/3582086c7cd110658817509851f9a55a/1696100177/in-the-box-channel/chunklist_b5128000.m3u8
 
 #EXTINF:-1 tvg-id="boxhits" tvg-name="BOX-HITS" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BOX-HITS.png",BOX HITS HD
-#https://code.vthanhtivi.pw/getlink/cliptv/5fd1dbde6f8356ce485efab6c527a8fa/1695761762/box-hits/chunklist_b5128000.m3u8
+https://code.vthanhtivi.pw/getlink/cliptv/3582086c7cd110658817509851f9a55a/1696100177/box-hits/chunklist_b5128000.m3u8
 
 #EXTINF:-1 tvg-id="boxhits" tvg-name="BOX-HITS" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BOX-HITS.png",BOX HITS HD 2
-#
+
 
 #EXTINF:-1 tvg-id="hollywoodclassics" tvg-name="HOLLYWOOD-CLASSICS" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HOLLYWOOD-CLASSICS.png",HOLLYWOOD CLASSICS
 #http://live-vnp.vthanhtivi.pw:18001/HOLLYWOOD_CLASSICS/index.m3u8
