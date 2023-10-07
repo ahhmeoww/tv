@@ -12,10 +12,10 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
 
 #EXTINF:-1 tvg-id="inthebox" tvg-name="InTheBox Channel" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/IN-THE-BOX.png",IN THE BOX HD
-https://code.vthanhtivi.pw/getlink/cliptv/f05a9571c4b3ae1c11da3f76c4dd8c36/1696255679/in-the-box-channel/chunklist_b5128000.m3u8
+
 
 #EXTINF:-1 tvg-id="boxhits" tvg-name="BOX-HITS" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BOX-HITS.png",BOX HITS HD
-https://code.vthanhtivi.pw/getlink/cliptv/f05a9571c4b3ae1c11da3f76c4dd8c36/1696255679/box-hits/chunklist_b5128000.m3u8
+
 
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HBO.png",HBO HD
 http://vthanhtivi.pw:5000/hbo/index.m3u8
@@ -287,16 +287,16 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/index.m3u8
 #-*--K+--*-#
 
 #EXTINF:-1 tvg-id="ksport1hd" tvg-name="KSPORT1HD" group-title="K+" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/KSPORT1.png",K+SPORT1
-#http://103.56.160.133:8081/ksport1
+https://asia.vthanhtivi.pw/test/index.m3u8
 
 #EXTINF:-1 tvg-id="ksport2hd" tvg-name="KSPORT2HD" group-title="K+" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/KSPORT2.png",K+SPORT2
 #http://103.56.160.133:8081/ksport2
 
 #EXTINF:-1 tvg-id="kcinehd" tvg-name="KCINEHD" group-title="K+" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/KCINE.png",K+CINE
-#http://103.56.160.133:8081/kcine
+http://vthanhtivi.pw:5000/kcine/index.m3u8
 
 #EXTINF:-1 tvg-id="klifehd" tvg-name="KLIFEHD" group-title="K+" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/KLIFE.png",K+LIFE
-#http://103.56.160.133:8081/klife
+http://vthanhtivi.pw:5000/klife/index.m3u8
 
 
 
