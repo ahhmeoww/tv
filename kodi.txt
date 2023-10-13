@@ -210,13 +210,14 @@ http://vthanhtivi.pw:5000/history/index.m3u8
 #-*--VTV--*-#
 
 #EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV1.png",VTV1 HD
-http://live.tv360.vn/manifest/VTV1_HD/playlist_1080p2M.m3u8
+#http://live.tv360.vn/manifest/VTV1_HD/playlist_1080p2M.m3u8
+http://is.am/5vwb/htl/tv360/vtv1.m3u8
 
 #EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV2.png",VTV2 HD
-http://live.tv360.vn/manifest/vtv2/playlist_1080p2M.m3u8
+http://is.am/5vwc/htl/tv360/vtv2.m3u8
 
 #EXTINF:-1 tvg-id="vtv3hd" tvg-name="VTV3" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV3.png",VTV3 HD
-http://live.tv360.vn/manifest/VTV3/playlist_1080p-5M.m3u8
+http://is.am/5vwd/htl/tv360/vtv3.m3u8
 
 #EXTINF:-1 tvg-id="vtv4hd" tvg-name="VTV4" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV4.png",VTV4 HD
 http://is.am/5v98/htl/vieon/vtv4.m3u8
