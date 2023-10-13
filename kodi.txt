@@ -210,7 +210,7 @@ http://vthanhtivi.pw:5000/history/index.m3u8
 #-*--VTV--*-#
 
 #EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV1.png",VTV1 HD
-udp://@225.1.4.1:30120
+http://live.tv360.vn/manifest/VTV1_HD/playlist_1080p2M.m3u8
 
 #EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV2.png",VTV2 HD
 https://code.vthanhtivi.pw/getlink/vieon/vtv2-hd/playlist.m3u8
