@@ -128,22 +128,19 @@ https://liveh34.vtvcab.vn/hls/ACTION/01.m3u8
 http://is.am/5vwj/htl/tv360/htvthethao.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab6hd" tvg-name="VTVCab6-ON-Sports+" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTVCab6-ON-Sports+.png",ON Sports+
-#EXTVLCOPT:http-referrer=http://sctvonline.vn
-#https://code.vthanhtivi.pw/getlink/vieon2/vtvcab6-on-sport-plus/playlist.m3u8
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab6/index.m3u8
+https://code.vthanhtivi.pw/getlink/onlive/onsportsplus/82384.m3u8
+#https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab6/index.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab3hd" tvg-name="VTVCab3-ON-Sports-HD" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTVCab3-ON-Sports-HD.png",ON Sports HD
-#EXTVLCOPT:http-referrer=http://sctvonline.vn
-#https://code.vthanhtivi.pw/getlink/vieon2/vtvcab3-on-sports/playlist.m3u8
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab3/index.m3u8
+https://code.vthanhtivi.pw/getlink/onlive/onsports/82428.m3u8
+#https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab3/index.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-name="VTVCab16-ON-Football-HD" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTVCab16-ON-Football-HD.png",ON Football HD
-#EXTVLCOPT:http-referrer=http://sctvonline.vn
-#https://code.vthanhtivi.pw/getlink/vieon2/vtvcab16-on-football/playlist.m3u8
-https://e7.endpoint.cdn.sctvonline.vn/live/smil:VTVCAB16.smil/chunklist_w2005840737_b1692000.m3u8
+https://code.vthanhtivi.pw/getlink/onlive/onfootball/82388.m3u8
+#https://e7.endpoint.cdn.sctvonline.vn/live/smil:VTVCAB16.smil/chunklist_w2005840737_b1692000.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab18hd" tvg-name="VTVCab18-ON-Sports-News" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTVCab18-ON-Sports-News.png",ON Sports News
-https://live2onsport.vtvcab.vn/dash/THETHAO_TINTUC_HD/m40_index.m3u8
+https://code.vthanhtivi.pw/getlink/onlive/onsportsnews/82427.m3u8
 
 #EXTINF:-1 tvg-id="ON-Volleyball" tvg-name="ON-Volleyball" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTVCab18-ON-Sports-News.png",ON Volleyball
 
@@ -217,6 +214,7 @@ http://is.am/5vwc/htl/tv360/vtv2.m3u8
 
 #EXTINF:-1 tvg-id="vtv3hd" tvg-name="VTV3" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV3.png",VTV3 HD
 http://is.am/5vwd/htl/tv360/vtv3.m3u8
+#https://asia.vthanhtivi.pw/test/index.m3u8
 
 #EXTINF:-1 tvg-id="vtv4hd" tvg-name="VTV4" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV4.png",VTV4 HD
 http://is.am/5v98/htl/vieon/vtv4.m3u8
@@ -281,16 +279,15 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/index.m3u8
 #-*--K+--*-#
 
 #EXTINF:-1 tvg-id="ksport1hd" tvg-name="KSPORT1HD" group-title="K+" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/KSPORT1.png",K+SPORT1
-https://asia.vthanhtivi.pw/test/index.m3u8
+
 
 #EXTINF:-1 tvg-id="ksport2hd" tvg-name="KSPORT2HD" group-title="K+" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/KSPORT2.png",K+SPORT2
-#http://103.56.160.133:8081/ksport2
 
 #EXTINF:-1 tvg-id="kcinehd" tvg-name="KCINEHD" group-title="K+" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/KCINE.png",K+CINE
-http://vthanhtivi.pw:5000/kcine/index.m3u8
+
 
 #EXTINF:-1 tvg-id="klifehd" tvg-name="KLIFEHD" group-title="K+" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/KLIFE.png",K+LIFE
-http://vthanhtivi.pw:5000/klife/index.m3u8
+
 
 
 
