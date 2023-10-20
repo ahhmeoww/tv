@@ -217,7 +217,7 @@ http://is.am/5vwd/htl/tv360/vtv3.m3u8
 #https://asia.vthanhtivi.pw/test/index.m3u8
 
 #EXTINF:-1 tvg-id="vtv4hd" tvg-name="VTV4" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV4.png",VTV4 HD
-http://is.am/5v98/htl/vieon/vtv4.m3u8
+https://liveh12.vtvcab.vn/hls/VTV4_HD/03.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hd" tvg-name="VTV5" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV5.png",VTV5 HD
 https://liveh12.vtvcab.vn/hls/ONVTV5_CL/04.m3u8
@@ -232,13 +232,13 @@ https://tiemnhazunn.click/tv360/tv360.php?id=207
 http://live.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
 
 #EXTINF:-1 tvg-id="vtv7hd" tvg-name="VTV7" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV7.png",VTV7 HD
-http://is.am/5v9d/htl/vieon/vtv7.m3u8
+https://liveh12.vtvcab.vn/hls/VTV7_HD/03.m3u8
 
 #EXTINF:-1 tvg-id="vtv8hd" tvg-name="VTV8" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV8.png",VTV8 HD
-http://is.am/5v9e/htl/vieon/vtv8.m3u8
+https://liveh12.vtvcab.vn/hls/VTV8_HD/03.m3u8
 
 #EXTINF:-1 tvg-id="vtv9hd" tvg-name="VTV9" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV9.png",VTV9 HD
-http://is.am/5v9f/htl/vieon/vtv9.m3u8
+https://liveh12.vtvcab.vn/hls/VTV9_HD/03.m3u8
 
 
 
