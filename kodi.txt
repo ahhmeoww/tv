@@ -12,10 +12,10 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
 
 #EXTINF:-1 tvg-id="inthebox" tvg-name="InTheBox Channel" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/IN-THE-BOX.png",IN THE BOX HD
-http://vthanhtivi.pw:5000/itb/mpegts
+http://asia.vthanhtivi.pw/In_The_Box/mpegts
 
 #EXTINF:-1 tvg-id="boxhits" tvg-name="BOX-HITS" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BOX-HITS.png",BOX HITS HD
-https://code.vthanhtivi.pw/getlink/cliptv/r9cx3UUo4sx2JaL4FrjXqw/1698831834/box-hits/chunklist_b5128000.m3u8
+https://code.vthanhtivi.pw/getlink/cliptv/eW0kWTpP92lERA-N9zHlQw/1699723238/box-hits/chunklist_b5128000.m3u8
 
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HBO.png",HBO HD
 http://vthanhtivi.pw:5000/hbo/index.m3u8
