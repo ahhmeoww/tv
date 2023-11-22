@@ -7,18 +7,25 @@
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
 
+#EXTINF:-1 tvg-id="boxmovie1" tvg-name="BOX Movie 1" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BOX-MOVIE-1.png",BOX MOVIE 1 2
+http://cdn.vthanhtivi.pw/Box_Movie_1/mpegts
+
 #EXTINF:-1 tvg-id="hollywoodclassics" tvg-name="HOLLYWOOD-CLASSICS" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HOLLYWOOD-CLASSICS.png",HOLLYWOOD CLASSICS
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
 
+#EXTINF:-1 tvg-id="hollywoodclassics" tvg-name="HOLLYWOOD-CLASSICS" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HOLLYWOOD-CLASSICS.png",HOLLYWOOD CLASSICS 2
+http://cdn.vthanhtivi.pw/Hollywood_Classics/mpegts
+
 #EXTINF:-1 tvg-id="inthebox" tvg-name="InTheBox Channel" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/IN-THE-BOX.png",IN THE BOX HD
-http://asia.vthanhtivi.pw/In_The_Box/mpegts
+http://cdn.vthanhtivi.pw/In_The_Box/mpegts
 
 #EXTINF:-1 tvg-id="boxhits" tvg-name="BOX-HITS" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BOX-HITS.png",BOX HITS HD
-https://code.vthanhtivi.pw/getlink/cliptv/eW0kWTpP92lERA-N9zHlQw/1699723238/box-hits/chunklist_b5128000.m3u8
+http://cdn.vthanhtivi.pw/Box_Hits/mpegts
 
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HBO.png",HBO HD
-http://vthanhtivi.pw:5000/hbo/index.m3u8
+http://cdnlive.vthanhtivi.pw/hbo/index.m3u8
+#http://vthanhtivi.pw:5000/hbo/index.m3u8
 
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HBO.png",HBO HD 2
 https://code.vthanhtivi.pw/getlink/tvfree/hbo/playlist.m3u8
@@ -27,7 +34,8 @@ https://code.vthanhtivi.pw/getlink/tvfree/hbo/playlist.m3u8
 udp://@225.1.4.90:30120
 
 #EXTINF:-1 tvg-id="cinemaxhd" tvg-name="CINEMAX" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/CINEMAX.png",CINEMAX HD
-http://vthanhtivi.pw:5000/cinemax/index.m3u8
+http://cdnlive.vthanhtivi.pw/cinemax/index.m3u8
+#http://vthanhtivi.pw:5000/cinemax/index.m3u8
 
 #EXTINF:-1 tvg-id="cinemaxhd" tvg-name="CINEMAX" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/CINEMAX.png",CINEMAX HD 2
 https://code.vthanhtivi.pw/getlink/tvfree/cinemax/playlist.m3u8
@@ -69,7 +77,7 @@ udp://@225.1.4.26:30120
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8
 
 #EXTINF:-1 tvg-id="man" tvg-name="MAN" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/MAN.png",MAN HD
-https://tiemnhazunn.click/tv360/tv360.php?id=237
+https://code.vthanhtivi.pw/getlink/tv360/MHadvEVj21jZtjsqVmLITA/1700682056/237/playlist.m3u8
 
 #EXTINF:-1 tvg-id="drfithd" tvg-name="DRFIT" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/DRFIT.png",DR.FIT HD
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
@@ -150,15 +158,9 @@ https://code.vthanhtivi.pw/getlink/onlive/onsportsnews/82427.m3u8
 #-*--SCIENCE--*-#
 
 #EXTINF:-1 tvg-id="ngchd" tvg-name="NAT-GEO" group-title="SCIENCE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/NAT-GEO.png",NATIONAL GEOGRAPHIC HD
-http://vthanhtivi.pw:5000/natgeo/index.m3u8
-
-#EXTINF:-1 tvg-id="ngchd" tvg-name="NAT-GEO" group-title="SCIENCE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/NAT-GEO.png",NATIONAL GEOGRAPHIC HD (FPT)
 udp://@225.1.4.215:30120
 
 #EXTINF:-1 tvg-id="ngwhd" tvg-name="NAT-GEO-WILD" group-title="SCIENCE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/NAT-GEO-WILD.png",NAT GEO WILD HD
-http://vthanhtivi.pw:5000/natgeowild/index.m3u8
-
-#EXTINF:-1 tvg-id="ngwhd" tvg-name="NAT-GEO-WILD" group-title="SCIENCE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/NAT-GEO-WILD.png",NAT GEO WILD HD (FPT)
 udp://@225.1.4.83:30120
 
 #EXTINF:-1 tvg-id="discoveryhd" tvg-name="DISCOVERY" group-title="SCIENCE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/DISCOVERY.png",DISCOVERY CHANNEL HD
