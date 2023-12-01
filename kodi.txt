@@ -8,20 +8,20 @@
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
 
 #EXTINF:-1 tvg-id="boxmovie1" tvg-name="BOX Movie 1" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BOX-MOVIE-1.png",BOX MOVIE 1 2
-http://stream.vthanhtivi.pw/Box_Movie_1/mpegts
+http://edge.vthanhtivi.pw/Box_Movie_1/mpegts
 
 #EXTINF:-1 tvg-id="hollywoodclassics" tvg-name="HOLLYWOOD-CLASSICS" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HOLLYWOOD-CLASSICS.png",HOLLYWOOD CLASSICS
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
 
 #EXTINF:-1 tvg-id="hollywoodclassics" tvg-name="HOLLYWOOD-CLASSICS" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HOLLYWOOD-CLASSICS.png",HOLLYWOOD CLASSICS 2
-http://stream.vthanhtivi.pw/Hollywood_Classics/mpegts
+http://edge.vthanhtivi.pw/Hollywood_Classics/mpegts
 
 #EXTINF:-1 tvg-id="inthebox" tvg-name="InTheBox Channel" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/IN-THE-BOX.png",IN THE BOX HD
-http://stream.vthanhtivi.pw/In_The_Box/mpegts
+http://edge.vthanhtivi.pw/In_The_Box/mpegts
 
 #EXTINF:-1 tvg-id="boxhits" tvg-name="BOX-HITS" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BOX-HITS.png",BOX HITS HD
-http://stream.vthanhtivi.pw/Box_Hits/mpegts
+http://edge.vthanhtivi.pw/Box_Hits/mpegts
 
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HBO.png",HBO HD
 http://cdnlive.vthanhtivi.pw/hbo/index.m3u8
