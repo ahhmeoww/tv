@@ -312,7 +312,7 @@ http://d343f8ab.vthanhtivi.pw/K_SPORT2/index.m3u8
 #EXTINF:-1 tvg-id="kcinehd" tvg-name="KCINEHD" group-title="K+" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/KCINE.png",K+CINE
 http://d343f8ab.vthanhtivi.pw/K_CINE/index.m3u8
 
-#EXTINF:-1 tvg-id="kactionhd" tvg-name="KACTIONHD" group-title="K+" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/ACTION.png",K+ACTION
+#EXTINF:-1 tvg-id="kactionhd" tvg-name="KACTIONHD" group-title="K+" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/KACTION.png",K+ACTION
 http://d343f8ab.vthanhtivi.pw/K_ACTION/index.m3u8
 
 
