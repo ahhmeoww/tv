@@ -212,11 +212,15 @@ http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtv1/index.m3u8
 
-#EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV1.png",VTV1 HD 2
-
+#EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV1.png",VTV1 HD (FPT)
+udp://@225.1.4.1:30120
 
 #EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV1.png",VTV1 HD 3
-udp://@225.1.4.1:30120
+https://drm-livecdn.hplus.com.vn/htvonline/vtv1hd.1080p.nimble.tms/playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV1.png",VTV1 HD 4
+http://vtv.cvmtv.site/VTV1HD?token=live
+
 
 #EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV2.png",VTV2 HD
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
