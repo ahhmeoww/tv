@@ -31,7 +31,7 @@ http://fpt.vthanhtivi.pw/Box_Hits/mpegts
 http://vthanhtivi.pw:5000/hbo/index.m3u8
 
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HBO.png",HBO HD 2
-#https://code.vthanhtivi.pw/getlink/tvfree/hbo/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/tvfree/hbo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HBO.png",HBO HD (FPT)
 udp://@225.1.3.10:30120
@@ -40,7 +40,7 @@ udp://@225.1.3.10:30120
 http://vthanhtivi.pw:5000/cinemax/index.m3u8
 
 #EXTINF:-1 tvg-id="cinemaxhd" tvg-name="CINEMAX" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/CINEMAX.png",CINEMAX HD 2
-#https://code.vthanhtivi.pw/getlink/tvfree/cinemax/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/tvfree/cinemax/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cinemaxhd" tvg-name="CINEMAX" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/CINEMAX.png",CINEMAX HD (FPT)
 udp://@225.1.3.14:30120
@@ -58,11 +58,6 @@ http://vthanhtivi.pw/warnertv/index.m3u8
 #EXTINF:-1 tvg-id="sctv16hd" tvg-name="SCTV16" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/SCTV16.png",SCTV16 HD
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/index.m3u8
-
-
-#EXTINF:-1 tvg-id="paramouthd" tvg-name="PARAMOUNT-CHANNEL" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/PARAMOUNT-2.png",PARAMOUNT CHANNEL
-
-
 
 
 #-*--ENTERTAINMENT--*-#
@@ -88,15 +83,6 @@ https://code.vthanhtivi.pw/getlink/tv360/fych1IY71_xXWr8qBsSkog/1703878290/237/p
 #EXTINF:-1 tvg-id="drfithd" tvg-name="DRFIT" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/DRFIT.png",DR.FIT HD
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8
-
-#EXTINF:-1 tvg-id="hgtv" tvg-name="HGTV" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HGTV.png",HGTV
-
-
-#EXTINF:-1 tvg-id="kix" tvg-name="KIX" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/KIX.png",KIX HD
-
-
-
-
 
 
 #-*--SPORT--*-#
@@ -141,32 +127,31 @@ https://wintv.fun/360/2380/index.m3u8
 https://wintv.fun/360/195/index.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab6hd" tvg-name="VTVCab6-ON-Sports+" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTVCab6-ON-Sports+.png",ON Sports+
-https://code.vthanhtivi.pw/getlink/onlive/onsportsplus/82384.m3u8
+#https://code.vthanhtivi.pw/getlink/onlive/onsportsplus/82384.m3u8
 #https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab6/index.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab3hd" tvg-name="VTVCab3-ON-Sports-HD" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTVCab3-ON-Sports-HD.png",ON Sports HD
-https://code.vthanhtivi.pw/getlink/onlive/onsports/82428.m3u8
+#https://code.vthanhtivi.pw/getlink/onlive/onsports/82428.m3u8
 #https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab3/index.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-name="VTVCab16-ON-Football-HD" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTVCab16-ON-Football-HD.png",ON Football HD
-https://code.vthanhtivi.pw/getlink/onlive/onfootball/82388.m3u8
+#https://code.vthanhtivi.pw/getlink/onlive/onfootball/82388.m3u8
 #https://e7.endpoint.cdn.sctvonline.vn/live/smil:VTVCAB16.smil/chunklist_w2005840737_b1692000.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab18hd" tvg-name="VTVCab18-ON-Sports-News" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTVCab18-ON-Sports-News.png",ON Sports News
-https://code.vthanhtivi.pw/getlink/onlive/onsportsnews/82427.m3u8
+#https://code.vthanhtivi.pw/getlink/onlive/onsportsnews/82427.m3u8
 
 #EXTINF:-1 tvg-id="ON-Volleyball" tvg-name="ON-Volleyball" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTVCab18-ON-Sports-News.png",ON Volleyball
-
 
 
 
 #-*--SCIENCE--*-#
 
 #EXTINF:-1 tvg-id="ngchd" tvg-name="NAT-GEO" group-title="SCIENCE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/NAT-GEO.png",NATIONAL GEOGRAPHIC HD
-udp://@225.1.4.215:30120
+#udp://@225.1.4.215:30120
 
 #EXTINF:-1 tvg-id="ngwhd" tvg-name="NAT-GEO-WILD" group-title="SCIENCE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/NAT-GEO-WILD.png",NAT GEO WILD HD
-udp://@225.1.4.83:30120
+#udp://@225.1.4.83:30120
 
 #EXTINF:-1 tvg-id="discoveryhd" tvg-name="DISCOVERY" group-title="SCIENCE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/DISCOVERY.png",DISCOVERY CHANNEL HD
 http://vthanhtivi.pw:5000/discovery/index.m3u8
@@ -199,8 +184,7 @@ http://vthanhtivi.pw/bbclifestyle/index.m3u8
 #udp://@225.1.4.23:30120
 
 #EXTINF:-1 tvg-id="davinci" tvg-name="DAVINCI" group-title="SCIENCE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/DAVINCI.png",DAVINCI HD
-udp://@225.1.4.208:30120
-
+udp://@225.1.3.51:30120
 
 #EXTINF:-1 tvg-id="clarity4k" tvg-name="CLARITY-4K" group-title="SCIENCE" tvg-logo="https://raw.githubusercontent.com/MrToBun007/AXT/main/Clarity.PNG",CLARITY 4K
 https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
@@ -220,14 +204,15 @@ http://vthanhtivi.pw/history/mpegts
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtv1/index.m3u8
 
+#EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV1.png",VTV1 HD 2
+https://cdnw-liv02.todayplus.com.vn/hdb/smil:vtv1-sub.smil/chunklist_w28623972_b2289152.m3u8
+
+#EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV1.png",VTV1 HD 3
+https://edge1.laotv.la/live/VTV1HD/index.m3u8
+
 #EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV1.png",VTV1 HD (FPT)
 udp://@225.1.4.1:30120
 
-#EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV1.png",VTV1 HD 3
-https://drm-livecdn.hplus.com.vn/htvonline/vtv1hd.1080p.nimble.tms/playlist.m3u8
-
-#EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV1.png",VTV1 HD 4
-http://vtv.cvmtv.site/VTV1HD?token=live
 
 
 #EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV2.png",VTV2 HD
@@ -862,4 +847,10 @@ https://liveh34.vtvcab.vn/hls/TTXVN_VNEWS/03.m3u8
 #EXTINF:-1 tvg-id="rockextreme" tvg-name="BLUE-ANT-EXTREME" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BLUE-ANT-EXTREME.png",BLUE ANT EXTREME HD
 
 
+#EXTINF:-1 tvg-id="hgtv" tvg-name="HGTV" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HGTV.png",HGTV
 
+
+#EXTINF:-1 tvg-id="kix" tvg-name="KIX" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/KIX.png",KIX HD
+
+
+#EXTINF:-1 tvg-id="paramouthd" tvg-name="PARAMOUNT-CHANNEL" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/PARAMOUNT-2.png",PARAMOUNT CHANNEL
