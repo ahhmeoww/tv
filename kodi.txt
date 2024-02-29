@@ -39,7 +39,7 @@ https://wintv.fun/360/239/index.m3u8
 https://code.vthanhtivi.pw/channel/N29pb2Y4aVFhY01EMWQ5V1JoYlhxb1dTenJJeXprZjkwYlN3Ly93bmY4bll1RHNJcWhlWGNtVnhQUWlwSUdCN1RncWdXWlRTRmJRTUo5Y1h0TFJ0c0E9PQ==/master.m3u8
 
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HBO.png",HBO HD
-http://fpt.vthanhtivi.pw/hbo/index.m3u8
+http://viettel.nekocdn.xyz/HBO/index.m3u8
 
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HBO.png",HBO HD 2
 #https://code.vthanhtivi.pw/getlink/tvfree/hbo/playlist.m3u8
@@ -48,7 +48,7 @@ http://fpt.vthanhtivi.pw/hbo/index.m3u8
 udp://@225.1.4.183:30120
 
 #EXTINF:-1 tvg-id="cinemaxhd" tvg-name="CINEMAX" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/CINEMAX.png",CINEMAX HD
-http://fpt.vthanhtivi.pw/cinemax/index.m3u8
+http://viettel.nekocdn.xyz/Cinemax/index.m3u8
 
 #EXTINF:-1 tvg-id="cinemaxhd" tvg-name="CINEMAX" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/CINEMAX.png",CINEMAX HD 2
 #https://code.vthanhtivi.pw/getlink/tvfree/cinemax/playlist.m3u8
