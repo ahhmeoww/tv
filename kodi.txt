@@ -36,7 +36,7 @@ https://code.vthanhtivi.pw/channel/N29pb2Y4aVFhY01EMWQ5V1JoYlhxb1dTenJJeXprZjkwY
 https://wintv.fun/360/239/index.m3u8
 
 #EXTINF:-1 tvg-id="boxhits" tvg-name="BOX-HITS" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BOX-HITS.png",BOX HITS HD 2
-https://code.vthanhtivi.pw/channel/N29pb2Y4aVFhY01EMWQ5V1JoYlhxb1dTenJJeXprZjkwYlN3Ly93bmY4bll1RHNJcWhlWGNtVnhQUWlwSUdCN1RncWdXWlRTRmJRTUo5Y1h0TFJ0c0E9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/VWNuQ0dNUnBKOUdmelhvRlFLNCs0by8vdk9ldHFzSmlaYXNRZkVnTitmQ0xLOFU4eEtSVUZHd0FaTkM5eVB6VA==/master.m3u8
 
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HBO.png",HBO HD
 http://viettel.nekocdn.xyz/HBO/index.m3u8
