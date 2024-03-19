@@ -14,7 +14,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
 https://wintv.fun/360/159/index.m3u8
 
 #EXTINF:-1 tvg-id="boxmovie1" tvg-name="BOX Movie 1" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BOX-MOVIE-1.png",BOX MOVIE 1 3
-https://code.vthanhtivi.pw/channel/N29pb2Y4aVFhY01EMWQ5V1JoYlhxb1dTenJJeXprZjkwYlN3Ly93bmY4bVkvZitZTXZqZ1VNaVk1QXd0SDVtSkk2bUQyUURqRFpCOUhOMlp6YUo4ZkE9PQ==/master.m3u8
+
 
 #EXTINF:-1 tvg-id="hollywoodclassics" tvg-name="HOLLYWOOD-CLASSICS" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HOLLYWOOD-CLASSICS.png",HOLLYWOOD CLASSICS
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
@@ -24,25 +24,25 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
 https://wintv.fun/360/160/index.m3u8
 
 #EXTINF:-1 tvg-id="hollywoodclassics" tvg-name="HOLLYWOOD-CLASSICS" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HOLLYWOOD-CLASSICS.png",HOLLYWOOD CLASSICS 3
-https://code.vthanhtivi.pw/channel/N29pb2Y4aVFhY01EMWQ5V1JoYlhxb1dTenJJeXprZjkwYlN3Ly93bmY4bFlKQW1DSHU2Mmd0bFgydmZpNGNPYlNQNGM4NVkwOEwwU1AyeGdCR3hQMVE9PQ==/master.m3u8
+
 
 #EXTINF:-1 tvg-id="inthebox" tvg-name="InTheBox Channel" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/IN-THE-BOX.png",IN THE BOX HD
 https://wintv.fun/360/235/index.m3u8
 
 #EXTINF:-1 tvg-id="inthebox" tvg-name="InTheBox Channel" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/IN-THE-BOX.png",IN THE BOX HD 2
-https://code.vthanhtivi.pw/channel/N29pb2Y4aVFhY01EMWQ5V1JoYlhxb1dTenJJeXprZjkwYlN3Ly93bmY4bll1RHNJcWhlWGNtVnhQUWlwSUdCN2drSGdLbnBHdjBuVkhObXF0UUJYNHc9PQ==/master.m3u8
+
 
 #EXTINF:-1 tvg-id="boxhits" tvg-name="BOX-HITS" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BOX-HITS.png",BOX HITS HD
 https://wintv.fun/360/239/index.m3u8
 
 #EXTINF:-1 tvg-id="boxhits" tvg-name="BOX-HITS" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BOX-HITS.png",BOX HITS HD 2
-https://code.vthanhtivi.pw/channel/VWNuQ0dNUnBKOUdmelhvRlFLNCs0by8vdk9ldHFzSmlaYXNRZkVnTitmQ0xLOFU4eEtSVUZHd0FaTkM5eVB6VA==/master.m3u8
+
 
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HBO.png",HBO HD
 http://viettel.nekocdn.xyz/HBO/index.m3u8
 
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HBO.png",HBO HD 2
-#https://code.vthanhtivi.pw/getlink/tvfree/hbo/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HBO.png",HBO HD (FPT)
 udp://@225.1.4.183:30120
@@ -51,19 +51,17 @@ udp://@225.1.4.183:30120
 http://viettel.nekocdn.xyz/Cinemax/index.m3u8
 
 #EXTINF:-1 tvg-id="cinemaxhd" tvg-name="CINEMAX" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/CINEMAX.png",CINEMAX HD 2
-#https://code.vthanhtivi.pw/getlink/tvfree/cinemax/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="cinemaxhd" tvg-name="CINEMAX" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/CINEMAX.png",CINEMAX HD (FPT)
 udp://@225.1.3.14:30120
 
 
 #EXTINF:-1 tvg-id="cinemaworld" tvg-name="CINEMA-WORLD" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/CINEMA-WORLD.png",CINEMA WORLD HD
-http://fpt.vthanhtivi.pw/cinemaworld/index.m3u8
-#udp://@225.1.3.81:30120
+
 
 #EXTINF:-1 tvg-id="warnertvhd" tvg-name="WARNER-TV" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/WARNER-TV.png",WARNER TV HD
-http://fpt.vthanhtivi.pw/warnertv/index.m3u8
-#udp://@225.1.4.14:30120
+udp://@225.1.4.14:30120
 
 
 #EXTINF:-1 tvg-id="sctv16hd" tvg-name="SCTV16" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/SCTV16.png",SCTV16 HD
@@ -74,22 +72,21 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/index.m3u8
 #-*--ENTERTAINMENT--*-#
 
 #EXTINF:-1 tvg-id="axnhd" tvg-name="AXN" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/AXN.png",AXN HD
-http://fpt.vthanhtivi.pw/axn/index.m3u8
+http://viettel.nekocdn.xyz/AXN/index.m3u8
 #udp://@225.1.4.9:30120
 
 #EXTINF:-1 tvg-id="afnhd" tvg-name="AFN" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/AFN.png",AFN HD
 udp://@225.1.4.36:30120
 
 #EXTINF:-1 tvg-id="tlchd" tvg-name="TLC" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/TLC.png",TRAVEL & LIVING HD
-http://vthanhtivi.pw/tlc/index.m3u8
-#udp://@225.1.4.26:30120
+udp://@225.1.4.26:30120
 
 #EXTINF:-1 tvg-id="woman" tvg-name="WOMAN" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/WOMAN.png",WOMAN HD
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8
 
 #EXTINF:-1 tvg-id="man" tvg-name="MAN" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/MAN.png",MAN HD
-https://code.vthanhtivi.pw/getlink/tv360/fych1IY71_xXWr8qBsSkog/1703878290/237/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="drfithd" tvg-name="DRFIT" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/DRFIT.png",DR.FIT HD
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
@@ -165,19 +162,16 @@ https://wintv.fun/360/195/index.m3u8
 #udp://@225.1.4.83:30120
 
 #EXTINF:-1 tvg-id="discoveryhd" tvg-name="DISCOVERY" group-title="SCIENCE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/DISCOVERY.png",DISCOVERY CHANNEL HD
-http://fpt.vthanhtivi.pw/discovery/index.m3u8
-#udp://@225.1.4.24:30120
+udp://@225.1.4.24:30120
 
 #EXTINF:-1 tvg-id="discoveryasiahd" tvg-name="DISCOVERY-ASIA" group-title="SCIENCE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/DISCOVERY-ASIA.png",DISCOVERY ASIA HD
-http://vthanhtivi.pw/discoveryasia/index.m3u8
-#udp://@225.1.3.45:30120
+udp://@225.1.3.45:30120
 
 #EXTINF:-1 tvg-id="outdoorhd" tvg-name="OUTDOOR-CHANNEL" group-title="SCIENCE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/OUTDOOR-CHANNEL.png",OUTDOOR CHANNEL HD
 udp://@225.1.4.210:30120
 
 #EXTINF:-1 tvg-id="animalhd" tvg-name="ANIMAL-PLANET" group-title="SCIENCE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/ANIMAL-PLANET.png",ANIMAL PLANET HD
-http://fpt.vthanhtivi.pw/animal/index.m3u8
-#udp://@225.1.4.209:30120
+udp://@225.1.4.209:30120
 
 #EXTINF:-1 tvg-id="planetearthhd" tvg-name="PLANET-EARTH" group-title="SCIENCE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/PLANET-EARTH.png",PLANET EARTH HD
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
@@ -187,12 +181,10 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 #EXTINF:-1 tvg-id="bbcearth" tvg-name="BBC-EARTH" group-title="SCIENCE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BBC-EARTH.png",BBC EARTH
-http://fpt.vthanhtivi.pw/bbcearth/index.m3u8
-#udp://@225.1.4.21:30120
+udp://@225.1.4.21:30120
 
 #EXTINF:-1 tvg-id="bbclifestyle" tvg-name="BBC-LIFE-STYLE" group-title="SCIENCE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BBC-LIFE-STYLE.png",BBC LIFE STYLE
-http://vthanhtivi.pw/bbclifestyle/index.m3u8
-#udp://@225.1.4.23:30120
+udp://@225.1.4.23:30120
 
 #EXTINF:-1 tvg-id="davinci" tvg-name="DAVINCI" group-title="SCIENCE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/DAVINCI.png",DAVINCI HD
 udp://@225.1.3.51:30120
@@ -216,7 +208,7 @@ http://viettel.nekocdn.xyz/History/index.m3u8
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtv1/index.m3u8
 
 #EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV1.png",VTV1 HD 2
-https://lms-vnetwork-vtv.swiftfederation.com/vtv/vtv1-1080p.m3u8
+http://113.160.152.31:5050/rtp/232.84.1.117:10254
 
 #EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV1.png",VTV1 HD 3
 https://wintv.fun/360/2/index.m3u8
@@ -322,13 +314,13 @@ https://liveh34.vtvcab.vn/hls/TTXVN_VNEWS/03.m3u8
 #-*--K+--*-#
 
 #EXTINF:-1 tvg-id="ksport1hd" tvg-name="KSPORT1HD" group-title="K+" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/KSPORT1.png",K+SPORT1
-http://viettel.nekocdn.xyz/ksport1/index.m3u8
+
 
 #EXTINF:-1 tvg-id="ksport2hd" tvg-name="KSPORT2HD" group-title="K+" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/KSPORT2.png",K+SPORT2
 
 
 #EXTINF:-1 tvg-id="kcinehd" tvg-name="KCINEHD" group-title="K+" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/KCINE.png",K+CINE
-http://viettel.nekocdn.xyz/kcine/index.m3u8
+
 
 #EXTINF:-1 tvg-id="kactionhd" tvg-name="KACTIONHD" group-title="K+" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/KACTION.png",K+ACTION
 
