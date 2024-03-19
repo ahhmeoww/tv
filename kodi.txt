@@ -206,7 +206,7 @@ http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 
 #EXTINF:-1 tvg-id="historyhd" tvg-name="HISTORY" group-title="SCIENCE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HISTORY.png",HISTORY HD
-http://fpt.vthanhtivi.pw/history/mpegts
+http://viettel.nekocdn.xyz/History/index.m3u8
 
 
 #-*--VTV--*-#
