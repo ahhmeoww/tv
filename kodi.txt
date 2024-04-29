@@ -8,7 +8,7 @@
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
 
 #EXTINF:-1 tvg-id="boxmovie1" tvg-name="BOX Movie 1" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BOX-MOVIE-1.png",BOX MOVIE 1 2
-
+https://tth.vn/boxmovie1hd
 
 #EXTINF:-1 tvg-id="boxmovie1" tvg-name="BOX Movie 1" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BOX-MOVIE-1.png",BOX MOVIE 1 3
 
@@ -18,25 +18,25 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
 
 #EXTINF:-1 tvg-id="hollywoodclassics" tvg-name="HOLLYWOOD-CLASSICS" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HOLLYWOOD-CLASSICS.png",HOLLYWOOD CLASSICS 2
-
+https://tth.vn/Hollywood
 
 #EXTINF:-1 tvg-id="hollywoodclassics" tvg-name="HOLLYWOOD-CLASSICS" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HOLLYWOOD-CLASSICS.png",HOLLYWOOD CLASSICS 3
 
 
 #EXTINF:-1 tvg-id="inthebox" tvg-name="InTheBox Channel" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/IN-THE-BOX.png",IN THE BOX HD
-
+https://tth.vn/intheboxhd
 
 #EXTINF:-1 tvg-id="inthebox" tvg-name="InTheBox Channel" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/IN-THE-BOX.png",IN THE BOX HD 2
 
 
 #EXTINF:-1 tvg-id="boxhits" tvg-name="BOX-HITS" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BOX-HITS.png",BOX HITS HD
-
+https://tth.vn/boxhitshd
 
 #EXTINF:-1 tvg-id="boxhits" tvg-name="BOX-HITS" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BOX-HITS.png",BOX HITS HD 2
 
 
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HBO.png",HBO HD
-
+http://ip168.homeip.net:8086/hbo.m3u8
 
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HBO.png",HBO HD 2
 
@@ -45,7 +45,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
 udp://@225.1.4.183:30120
 
 #EXTINF:-1 tvg-id="cinemaxhd" tvg-name="CINEMAX" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/CINEMAX.png",CINEMAX HD
-
+http://ip168.homeip.net:8086/cinemax.m3u8
 
 #EXTINF:-1 tvg-id="cinemaxhd" tvg-name="CINEMAX" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/CINEMAX.png",CINEMAX HD 2
 
@@ -68,7 +68,8 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/index.m3u8
 #-*--ENTERTAINMENT--*-#
 
 #EXTINF:-1 tvg-id="axnhd" tvg-name="AXN" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/AXN.png",AXN HD
-udp://@225.1.4.9:30120
+http://s4.nihontv.net:21585/axn/index.m3u8
+#udp://@225.1.4.9:30120
 
 #EXTINF:-1 tvg-id="afnhd" tvg-name="AFN" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/AFN.png",AFN HD
 udp://@225.1.4.36:30120
@@ -202,10 +203,10 @@ http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtv1/index.m3u8
 
 #EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV1.png",VTV1 HD 2
-https://lms-vnetwork-vtv.swiftfederation.com/vtvgo/vtv1-720p.m3u8
+https://vtc301220.cdn.vnns.io/VTV1HD.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV1.png",VTV1 HD 3
-https://vtc301220.cdn.vnns.io/VTV1HD.stream/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV1.png",VTV1 HD (FPT1)
 udp://@225.1.4.1:30120
@@ -308,7 +309,7 @@ https://liveh34.vtvcab.vn/hls/TTXVN_VNEWS/03.m3u8
 #-*--K+--*-#
 
 #EXTINF:-1 tvg-id="ksport1hd" tvg-name="KSPORT1HD" group-title="K+" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/KSPORT1.png",K+SPORT1
-http://103.82.39.241:3333/KPLUS?token=1
+
 
 #EXTINF:-1 tvg-id="ksport2hd" tvg-name="KSPORT2HD" group-title="K+" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/KSPORT2.png",K+SPORT2
 
