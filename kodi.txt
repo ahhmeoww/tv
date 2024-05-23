@@ -205,7 +205,7 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/vtv1/index.m3u8
 http://171.238.181.52:18080/154.m3u8
 
 #EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV1.png",VTV1 HD 3
-
+https://ott1.nethubtv.vn/live/vtv1/chunklist_1.m3u8
 
 #EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/VTV1.png",VTV1 HD (FPT1)
 udp://@225.1.4.1:30120
