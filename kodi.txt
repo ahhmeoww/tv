@@ -46,8 +46,7 @@ udp://@225.1.4.14:30120
 
 
 #EXTINF:-1 tvg-id="sctv16hd" tvg-name="SCTV16" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/SCTV16.png",SCTV16 HD
-#EXTVLCOPT:http-referrer=http://sctvonline.vn
-https://e1.endpoint.cdn.sctvonline.vn/hls/sctv16/index.m3u8
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv16/index.m3u8|Referer=http://sctvonline.vn
 
 #-*--ENTERTAINMENT--*-#
 
