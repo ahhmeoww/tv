@@ -21,17 +21,17 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
 
 
 #EXTINF:-1 tvg-id="inthebox" tvg-name="InTheBox Channel" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/IN-THE-BOX.png",IN THE BOX HD
-https://khanggtivi.xyz/vuminhthanh/vmt2024/inthebox/index.m3u8
+https://thvip.site/360/235/index.m3u8
 
 
 #EXTINF:-1 tvg-id="boxhits" tvg-name="BOX-HITS" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BOX-HITS.png",BOX HITS HD
-https://khanggtivi.xyz/vuminhthanh/vmt2024/boxhits/index.m3u8
+https://thvip.site/360/239/index.m3u8
 
 #EXTINF:-1 tvg-id="boxhits" tvg-name="BOX-HITS" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BOX-HITS.png",BOX HITS HD 2
 
 
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HBO.png",HBO HD
-https://khanggtivi.xyz/vuminhthanh/vmt2024/hbo/index.m3u8
+
 
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HBO.png",HBO HD 2
 
@@ -40,7 +40,7 @@ https://khanggtivi.xyz/vuminhthanh/vmt2024/hbo/index.m3u8
 udp://@225.1.4.183:30120
 
 #EXTINF:-1 tvg-id="cinemaxhd" tvg-name="CINEMAX" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/CINEMAX.png",CINEMAX HD
-https://khanggtivi.xyz/vuminhthanh/vmt2024/cinemax/index.m3u8
+
 
 #EXTINF:-1 tvg-id="cinemaxhd" tvg-name="CINEMAX" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/CINEMAX.png",CINEMAX HD 2
 
@@ -71,7 +71,7 @@ udp://@225.1.4.26:30120
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8
 
 #EXTINF:-1 tvg-id="man" tvg-name="MAN" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/MAN.png",MAN HD
-
+https://thvip.site/360/237/index.m3u8
 
 #EXTINF:-1 tvg-id="drfithd" tvg-name="DRFIT" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/DRFIT.png",DR.FIT HD
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
