@@ -30,7 +30,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
 
 
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HBO.png",HBO HD
-
+http://125hvt.ddns.net:21585/hbo/index.m3u8
 
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HBO.png",HBO HD 2
 
