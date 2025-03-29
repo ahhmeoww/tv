@@ -277,15 +277,18 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/index.m3u8
 #-*--K+--*-#
 
 #EXTINF:-1 tvg-id="ksport1hd" tvg-name="KSPORT1HD" group-title="K+" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/KSPORT1.png",K+SPORT1
-
+https://truyenhinh.click/ksport1hd
 
 #EXTINF:-1 tvg-id="ksport2hd" tvg-name="KSPORT2HD" group-title="K+" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/KSPORT2.png",K+SPORT2
-
+https://truyenhinh.click/ksport2hd
 
 #EXTINF:-1 tvg-id="kcinehd" tvg-name="KCINEHD" group-title="K+" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/KCINE.png",K+CINE
-
+https://truyenhinh.click/kcinehd
 
 #EXTINF:-1 tvg-id="kactionhd" tvg-name="KACTIONHD" group-title="K+" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/KACTION.png",K+ACTION
+https://truyenhinh.click/kactionhd
+
+
 
 
 
