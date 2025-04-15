@@ -8,33 +8,25 @@
 #https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
 
 #EXTINF:-1 tvg-id="boxmovie1" tvg-name="BOX Movie 1" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BOX-MOVIE-1.png",BOX MOVIE 1
-https://HaNoiIPTV.short.gy/HaNoiIPTV-Box_Movie_1_HD
-
-#EXTINF:-1 tvg-id="boxmovie1" tvg-name="BOX Movie 1" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BOX-MOVIE-1.png",BOX MOVIE 1
-#https://tv.TruyenHinh.Click/CoBan/boxmovie1hd/TuyetDoiKhongKinhDoanh.m3u8
+https://sgchill.io.vn/tv/tv360.php?id=159
+#https://HaNoiIPTV.short.gy/HaNoiIPTV-Box_Movie_1_HD
 
 #EXTINF:-1 tvg-id="hollywoodclassics" tvg-name="HOLLYWOOD-CLASSICS" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HOLLYWOOD-CLASSICS.png",HOLLYWOOD CLASSICS (SCTV)
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
-https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
+#https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
 
 #EXTINF:-1 tvg-id="hollywoodclassics" tvg-name="HOLLYWOOD-CLASSICS" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HOLLYWOOD-CLASSICS.png",HOLLYWOOD CLASSICS
-#https://tv.TruyenHinh.Click/CoBan/hollywoodclassichd/TuyetDoiKhongKinhDoanh.m3u8
+https://sgchill.io.vn/tv/tv360.php?id=160
 
 #EXTINF:-1 tvg-id="inthebox" tvg-name="InTheBox Channel" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/IN-THE-BOX.png",IN THE BOX HD
-#https://tv.TruyenHinh.Click/CoBan/inthebox/TuyetDoiKhongKinhDoanh.m3u8
+https://sgchill.io.vn/tv/tv360.php?id=235
 #https://HaNoiIPTV.short.gy/HaNoiIPTV-In_The_Box_Channel
 
 #EXTINF:-1 tvg-id="boxhits" tvg-name="BOX-HITS" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BOX-HITS.png",BOX HITS HD
-#https://tv.TruyenHinh.Click/CoBan/boxhits/TuyetDoiKhongKinhDoanh.m3u8
-
-#EXTINF:-1 tvg-id="boxhits" tvg-name="BOX-HITS" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BOX-HITS.png",BOX HITS HD
-
+https://sgchill.io.vn/tv/tv360.php?id=239
 
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HBO.png",HBO HD
 http://125hvt.ddns.net:21585/hbo/index.m3u8
-
-#EXTINF:-1 tvg-id="hbohd" tvg-name="HBO" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HBO.png",HBO HD
-
 
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HBO.png",HBO HD (FPT)
 udp://@225.1.4.183:30120
@@ -54,7 +46,8 @@ http://125hvt.ddns.net:21585/wbtv/index.m3u8
 
 
 #EXTINF:-1 tvg-id="sctv16hd" tvg-name="SCTV16" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/SCTV16.png",SCTV16 HD
-#https://e1.endpoint.cdn.sctvonline.vn/hls/sctv16/index.m3u8|Referer=http://sctvonline.vn
+#EXTVLCOPT:http-referrer=http://sctvonline.vn
+#https://e1.endpoint.cdn.sctvonline.vn/hls/sctv16/index.m3u8
 
 #-*--ENTERTAINMENT--*-#
 
