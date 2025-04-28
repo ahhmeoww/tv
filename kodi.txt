@@ -8,22 +8,20 @@
 #https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
 
 #EXTINF:-1 tvg-id="boxmovie1" tvg-name="BOX Movie 1" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BOX-MOVIE-1.png",BOX MOVIE 1
-https://sgchill.io.vn/tv/tv360.php?id=159
-#https://HaNoiIPTV.short.gy/HaNoiIPTV-Box_Movie_1_HD
+https://sctv.locket.website/box.m3u8?protected=Wn3cnOURm2ByAEej6m0t1%2F%2BO9f0cmXVQkjlPqvHwiBnF5mVM%2B%2FTYEymAdZFz%2FW95Rh2Pm8uhbhfe7ZdCHNC50Q%3D%3D&channel=boxmovies1
 
 #EXTINF:-1 tvg-id="hollywoodclassics" tvg-name="HOLLYWOOD-CLASSICS" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HOLLYWOOD-CLASSICS.png",HOLLYWOOD CLASSICS (SCTV)
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
 #https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
 
 #EXTINF:-1 tvg-id="hollywoodclassics" tvg-name="HOLLYWOOD-CLASSICS" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HOLLYWOOD-CLASSICS.png",HOLLYWOOD CLASSICS
-https://sgchill.io.vn/tv/tv360.php?id=160
+https://sctv.locket.website/box.m3u8?protected=eUVuWMsDJp4OGpmfwy3KrUaLciTloheUZwOLtln7myPJMvMZs4i4pGID%2F%2FhJQTHM046K7PxWUuSpIvvF9fJ0yw%3D%3D&channel=hollywood
 
 #EXTINF:-1 tvg-id="inthebox" tvg-name="InTheBox Channel" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/IN-THE-BOX.png",IN THE BOX HD
-https://sgchill.io.vn/tv/tv360.php?id=235
-#https://HaNoiIPTV.short.gy/HaNoiIPTV-In_The_Box_Channel
+https://sctv.locket.website/box.m3u8?protected=LesHiZVAjz3Nko7vmkN%2FmdYNW088a7bS1ggFIQSAAk799qbAn3CRsh7g4cEJce192jtliX%2BmX3RZJULldktCiw%3D%3D&channel=inthebox
 
 #EXTINF:-1 tvg-id="boxhits" tvg-name="BOX-HITS" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BOX-HITS.png",BOX HITS HD
-https://sgchill.io.vn/tv/tv360.php?id=239
+https://sctv.locket.website/box.m3u8?protected=fuPe%2By%2Bn6fEHw%2FR3OH8Dhh%2ByInKtVQLjS930mWaQ3QwJ%2BS3oQkSDI%2B%2BSqQ2buBqUwmQv0pY2IuZaO7Gtr3evEA%3D%3D&channel=boxhit
 
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HBO.png",HBO HD
 http://125hvt.ddns.net:21585/hbo/index.m3u8
@@ -69,14 +67,14 @@ udp://@225.1.4.26:30120
 
 #EXTINF:-1 tvg-id="woman" tvg-name="WOMAN" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/WOMAN.png",WOMAN HD
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
-https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8
+#https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8
 
 #EXTINF:-1 tvg-id="man" tvg-name="MAN" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/MAN.png",MAN HD
 
 
 #EXTINF:-1 tvg-id="drfithd" tvg-name="DRFIT" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/DRFIT.png",DR.FIT HD
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
-https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8
+#https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8
 
 
 #-*--SPORT--*-#
