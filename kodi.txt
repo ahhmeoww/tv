@@ -8,20 +8,20 @@
 #https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
 
 #EXTINF:-1 tvg-id="boxmovie1" tvg-name="BOX Movie 1" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BOX-MOVIE-1.png",BOX MOVIE 1
-https://sctv.locket.website/box.m3u8?protected=Wn3cnOURm2ByAEej6m0t1%2F%2BO9f0cmXVQkjlPqvHwiBnF5mVM%2B%2FTYEymAdZFz%2FW95Rh2Pm8uhbhfe7ZdCHNC50Q%3D%3D&channel=boxmovies1
+https://sctv.locket.website/box.m3u8?protected=RprD7TLXl42WFEXiJ3m5wl5mQX4%2BlAB%2BiULnlBIGlKXow51zpuOBIvEd2uMm2u6BfjE7GsQiAr0v6B8UPzXATQ%3D%3D&channel=boxmovies1
 
 #EXTINF:-1 tvg-id="hollywoodclassics" tvg-name="HOLLYWOOD-CLASSICS" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HOLLYWOOD-CLASSICS.png",HOLLYWOOD CLASSICS (SCTV)
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
 #https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
 
 #EXTINF:-1 tvg-id="hollywoodclassics" tvg-name="HOLLYWOOD-CLASSICS" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HOLLYWOOD-CLASSICS.png",HOLLYWOOD CLASSICS
-https://sctv.locket.website/box.m3u8?protected=eUVuWMsDJp4OGpmfwy3KrUaLciTloheUZwOLtln7myPJMvMZs4i4pGID%2F%2FhJQTHM046K7PxWUuSpIvvF9fJ0yw%3D%3D&channel=hollywood
+https://sctv.locket.website/box.m3u8?protected=rdEz68mIHTaEjwuM%2B4f4B4djQE1P1cuCVmmPhxt11ZXA6hJr4%2B6BqMabtWBb36N4W9%2BEp1H9RUpHG4UhXUABvw%3D%3D&channel=hollywood
 
 #EXTINF:-1 tvg-id="inthebox" tvg-name="InTheBox Channel" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/IN-THE-BOX.png",IN THE BOX HD
-https://sctv.locket.website/box.m3u8?protected=LesHiZVAjz3Nko7vmkN%2FmdYNW088a7bS1ggFIQSAAk799qbAn3CRsh7g4cEJce192jtliX%2BmX3RZJULldktCiw%3D%3D&channel=inthebox
+https://sctv.locket.website/box.m3u8?protected=R9924YXXdO%2FdAraWdbb6fubc9XZjQHgqnmSaP0%2FWp4R%2FqdVS9SiMEvr9Mc1gkEYw578bdVL7bIuaCJYGUusY7A%3D%3D&channel=inthebox
 
 #EXTINF:-1 tvg-id="boxhits" tvg-name="BOX-HITS" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BOX-HITS.png",BOX HITS HD
-https://sctv.locket.website/box.m3u8?protected=fuPe%2By%2Bn6fEHw%2FR3OH8Dhh%2ByInKtVQLjS930mWaQ3QwJ%2BS3oQkSDI%2B%2BSqQ2buBqUwmQv0pY2IuZaO7Gtr3evEA%3D%3D&channel=boxhit
+https://sctv.locket.website/box.m3u8?protected=RV4Bu6iVEY2B4gdEQMRR1FAX2NYtfWiZv7DgQNMhft3IvN4ZG7daHf6HyWfD62kX3%2BQXQJExNz%2B9mKJSADQ61w%3D%3D&channel=boxhit
 
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HBO.png",HBO HD
 http://125hvt.ddns.net:21585/hbo/index.m3u8
