@@ -21,7 +21,7 @@ https://sctv.locket.website/box.m3u8?protected=uoaCxUtEi3dymZWcjKy2M9oTs5suc6V7L
 https://sctv.locket.website/box.m3u8?protected=EZm%2F31owOU7w6EllevJxr%2BBwO68UHpTCb%2FsiCIRn9016fFdamRTFXc7UDwnvZ8paG5wud0AH5GWjIfsCGTl1GA%3D%3D&channel=inthebox
 
 #EXTINF:-1 tvg-id="boxhits" tvg-name="BOX-HITS" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BOX-HITS.png",BOX HITS HD
-https://sctv.locket.website/box.m3u8?protected=YGnfJTNmsv2CPPDKp1X4We6Os6SGgpP5aWbjpSD5kceXRKyq2bU6smUoB2ytlH%2BTt4W5WONQ7NJ0AAsuY%2BdSPw%3D%3D&channel=boxhit
+https://sctv.locket.website/box.m3u8?protected=XjgJU8DtNexiPT4Aktryq5X6BYVrpEqMtqT%2BZTpfBpbA52oLUrD7Fgji5q%2BcgOwWkixPLFDdJBbTzJa%2BFvkJlw%3D%3D&channel=boxhit
 
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HBO.png",HBO HD
 http://125hvt.ddns.net:21585/hbo/index.m3u8
