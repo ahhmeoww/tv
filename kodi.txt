@@ -8,20 +8,20 @@
 #https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
 
 #EXTINF:-1 tvg-id="boxmovie1" tvg-name="BOX Movie 1" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BOX-MOVIE-1.png",BOX MOVIE 1
-https://sctv.locket.website/box.m3u8?protected=emm6bK%2B%2FpEn6rbMsC5SaIB4xmuHiY4%2F%2FvAhwJbqibtVNBA7cVYdFytrAtuNFfpWBZqmVg%2BdYp9zJjPTFZzjzTQ%3D%3D&channel=boxmovies1
+https://HaNoiIPTV.short.gy/HaNoiIPTV-Box_Movie_1_HD
 
 #EXTINF:-1 tvg-id="hollywoodclassics" tvg-name="HOLLYWOOD-CLASSICS" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HOLLYWOOD-CLASSICS.png",HOLLYWOOD CLASSICS (SCTV)
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
 #https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
 
 #EXTINF:-1 tvg-id="hollywoodclassics" tvg-name="HOLLYWOOD-CLASSICS" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HOLLYWOOD-CLASSICS.png",HOLLYWOOD CLASSICS
-https://sctv.locket.website/box.m3u8?protected=uoaCxUtEi3dymZWcjKy2M9oTs5suc6V7LXXN%2BYCG3zvNuPktMovHRbx9X3SA5BHV2ouiEMTGdI6BqBq27or5Og%3D%3D&channel=hollywood
+https://HaNoiIPTV.short.gy/HaNoiIPTV-Hollywood_Classics_HD
 
 #EXTINF:-1 tvg-id="inthebox" tvg-name="InTheBox Channel" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/IN-THE-BOX.png",IN THE BOX HD
-https://sctv.locket.website/box.m3u8?protected=EZm%2F31owOU7w6EllevJxr%2BBwO68UHpTCb%2FsiCIRn9016fFdamRTFXc7UDwnvZ8paG5wud0AH5GWjIfsCGTl1GA%3D%3D&channel=inthebox
+https://HaNoiIPTV.short.gy/HaNoiIPTV-In_The_Box_Channel
 
 #EXTINF:-1 tvg-id="boxhits" tvg-name="BOX-HITS" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/BOX-HITS.png",BOX HITS HD
-https://sctv.locket.website/box.m3u8?protected=XjgJU8DtNexiPT4Aktryq5X6BYVrpEqMtqT%2BZTpfBpbA52oLUrD7Fgji5q%2BcgOwWkixPLFDdJBbTzJa%2BFvkJlw%3D%3D&channel=boxhit
+https://HaNoiIPTV.short.gy/HaNoiIPTV-BOX_Hits_HD
 
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ahhmeoww/tv/tv/logo/HBO.png",HBO HD
 http://125hvt.ddns.net:21585/hbo/index.m3u8
